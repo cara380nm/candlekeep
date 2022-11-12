@@ -246,7 +246,7 @@ Int + 1/2 artificer level spells:
 ### Level 2
 
 #### Slots
-  - :o: :o: :o: :o: Regular spells
+  - :o: :o: Regular spells
   - :o: 1/day misty step [^fey-touched]
 
 ## Notes
