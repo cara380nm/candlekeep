@@ -20,8 +20,6 @@
 
 ## Skills
 
-TODO
-
 | Skill           | Stat | Notes                                                                                          |
 |-----------------|------|:-----------------------------------------------------------------------------------------------|
 | Acrobatics      | Dex  |                                                                                                |
@@ -159,7 +157,6 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Lantern
  - Bag of holding
    - Very rare volcano wine
- - Aloe vera
  - Dungeoneer's Pack [^artificer]
    - a Backpack
    - a Crowbar
@@ -178,10 +175,14 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 Want to understand how things work
 
 ###### Ideals
+TODO
 
 ###### Bonds
+TODO
 
 ###### Flaws
+TODO
+
 
 ## Features&Traits
 
