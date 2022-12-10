@@ -6,7 +6,7 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |     7 | 1d8 |
+| Artificer | Artillerist |     9 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       |
@@ -64,7 +64,7 @@
 
 | Field              |              Value |
 |--------------------|-------------------:|
-| Proficiency bonus  |                 +3 |
+| Proficiency bonus  |                 +4 |
 | AC                 |                 12 |
 | Initiative         |                Dex |
 | Walking Speed      | 25ft [^rock-gnome] |
@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 56        |         | 12                  |
+| 77        |         | 12                  |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
@@ -135,7 +135,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |        960 |
+| GP |       1 |        760 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -156,7 +156,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - 1 pound bright red egg
  - Lantern
  - Bag of holding
-   - Very rare volcano wine
+   - 2 barrels very rare volcano wine
  - Dungeoneer's Pack [^artificer]
    - a Backpack
    - a Crowbar
@@ -168,6 +168,8 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
    - a Waterskin
    - 50 feet of Hempen rope
  - Diamond ring
+ - Toys
+   - Talking squirrel. Demands nuts
 
 ## Misc
 
@@ -225,12 +227,16 @@ Int + 1/2 artificer level spells:
     - Detect magic
     - Faerie fire
   - Level 2:
-    - Scortching ray (bonus artillerist [^artillerist] always prepared)
+    - Scorching ray (bonus artillerist [^artillerist] always prepared)
     - Shatter (bonus artillerist [^artillerist] always prepared)
     - Invisibility
     - Alter self
     - Lesser restoration
     - Enlarge/reduce
+  - Level 3:
+    - Fireball (bonus artillerist [^artillerist] always prepared)
+    - Wind wall (bonus artillerist [^artillerist] always prepared)
+    - 
 
 ### Cantrips
   - Mending [^artificer]
@@ -249,6 +255,11 @@ Int + 1/2 artificer level spells:
 #### Slots
   - :o: :o: Regular spells
   - :o: 1/day misty step [^fey-touched]
+
+### Level 3
+
+#### Slots
+  - :o: :o: Regular spells
 
 ## Notes
 
