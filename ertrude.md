@@ -105,21 +105,24 @@ Up to int-mod tiny items can be enchanted to either: [^artificer]
 
 ### Infuse item
 After long rest, imbue infusions to 3 objects. Max 1 infusion per object [^artificer] Known infusions:
- * Enhanced arcane focus (attune)
- * Returning weapon
- * Homunculus
- * Repeating shot (attune)
- * Lantern of revealing
  * Spell refueling ring (attune)
+ * Homunculus
+ * Boots of the Winding Path (attune)
+ * Enhanced arcane focus (attune)
+ * Armor of Magical Strength (attune)
+ * Lantern of revealing
 
 ### Artificer Specialist
 Artillerist [^artificer]
 
 ### Eldritch Cannon
 Action to create small/tiny. 1 per long rest (or expend spell slot). Mending restores 2d6. Decide appearance. Can walk or climb with legs. [^artillerist]
- * Flamethrower. 15ft cone. 2d8 damage. Dex save for half.
- * Force ballista. Ranged spell attack. 120ft. 2d8 force & pushed 5 ft
+ * Flamethrower. 15ft cone. 3d8 damage. Dex save for half.
+ * Force ballista. Ranged spell attack. 120ft. 3d8 force & pushed 5 ft
  * Protector. 1d8+intmod temporary hp to itself & all within 10ft
+
+### Explosive cannon
+If cannon within 60ft can use action to destroy it. All within 20 ft, take 3d8 force. Dex save for half
 
 ### The Right Tool for the Job
 1 hour to create artisans tools [^artificer]
@@ -236,19 +239,20 @@ Int + 1/2 artificer level spells:
   - Level 3:
     - Fireball (bonus artillerist [^artillerist] always prepared)
     - Wind wall (bonus artillerist [^artillerist] always prepared)
-    - 
+    - Ashardalon's Stride
 
 ### Cantrips
   - Mending [^artificer]
   - Shocking grasp [^artificer] 2d8 (advantage vs metal, supress reaction)
-  - Toll the dead [^artificer] 2d8/2d12 wis save
-  - Sword burst [^artificer] 2d6 to all dex save
+  - Toll the dead [^magic-initiate] 2d8/2d12 wis save
+  - Sword burst [^magic-initiate]
 
 ### Level 1
 
 #### Slots
   - :o: :o: :o: :o: Regular spells
   - :o: 1/day command [^fey-touched]]
+  - :o: 1/day find familiar [^magic-initiate]
 
 ### Level 2
 
@@ -268,4 +272,5 @@ Int + 1/2 artificer level spells:
 [^artillerist]: Artillerist subclass [^artificer]
 [^rock-gnome]: Rock gnome
 [^fey-touched]: Feat
+[^magic-initiate]: Feat
 
