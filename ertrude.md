@@ -138,7 +138,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        100 |
-| GP |       1 |       2144 |
+| GP |       1 |       1313 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -175,8 +175,9 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Toys
    - Talking squirrel. Demands nuts
  - Green agate ring
-
-
+ - Gloves of missile snaring
+ - Back of tricks (rust)
+ - Wand of web (attune)
 
 ## Misc
 
