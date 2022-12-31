@@ -137,8 +137,8 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
-| PP |    1/10 |            |
-| GP |       1 |        741 |
+| PP |    1/10 |        100 |
+| GP |       1 |       2144 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -147,7 +147,9 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 
  - Clothing:
    - Travellers clothes [^guild-artisan]
-   - Scale mail [^artificer]
+   - Breastplate [^artificer]
+   - Hooded robe pseudo dragon(black, lining red gold silk)
+   - Hooded robe (black, lining green gold silk)
  - Weapons:
    - Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
@@ -170,10 +172,11 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
    - 10 days of Rations
    - a Waterskin
    - 50 feet of Hempen rope
- - Diamond ring
  - Toys
    - Talking squirrel. Demands nuts
  - Green agate ring
+
+
 
 ## Misc
 
@@ -189,6 +192,9 @@ TODO
 ###### Flaws
 TODO
 
+Clompy, shire horse black, white hooves.
+Stompy, shire horse black, white hooves, white stripe on nose.
+Chain shirt for flappy
 
 ## Features&Traits
 
