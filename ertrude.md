@@ -90,20 +90,20 @@
 ### Gnome Cunning
 Advantage to all int/wis/cha saves vs magic [^rock-gnome]
 
-### Tinker
+### Tinker [^tinker]
 10gp and 1 hour to make a clockwork device (needs 1 hour maintenance per 24). [^rock-gnome] Options:
  * Clockwork toy - 5ft in random direction. Makes noises
  * Fire starter
  * Music box
 
-### Magical Tinkering.
+### Magical tinkering [^magical-tinkering]: Feat
 Up to int-mod tiny items can be enchanted to either: [^artificer]
  * Shed light 5-10ft
  * Play message
  * Emit odor/sound within 10 feet
  * Static visual effect
 
-### Infuse item
+### Infuse item [^infusion]
 After long rest, imbue infusions to 3 objects. Max 1 infusion per object [^artificer] Known infusions:
  * Spell refueling ring (attune)
  * Homunculus
@@ -147,9 +147,9 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 
  - Clothing:
    - Travellers clothes [^guild-artisan]
-   - Breastplate [^artificer]
-   - Hooded robe pseudo dragon(black, lining red gold silk)
-   - Hooded robe (black, lining green gold silk)
+   - Breastplate (AC: 14, no stealth penalty)
+   - Hooded robe small (black, lining green gold silk)
+   - Gloves of missile snaring
  - Weapons:
    - Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
@@ -161,7 +161,6 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - 1 pound bright red egg
  - Lantern
  - Bag of holding
-   - 2 barrels very rare volcano wine
  - Dungeoneer's Pack [^artificer]
    - a Backpack
    - a Crowbar
@@ -173,9 +172,8 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
    - a Waterskin
    - 50 feet of Hempen rope
  - Toys
-   - Talking squirrel. Demands nuts
+   - Talking squirrel. Demands nuts [^tinker]
  - Green agate ring
- - Gloves of missile snaring
  - Back of tricks (rust)
  - Wand of web (attune)
 
@@ -192,10 +190,6 @@ TODO
 
 ###### Flaws
 TODO
-
-Clompy, shire horse black, white hooves.
-Stompy, shire horse black, white hooves, white stripe on nose.
-Chain shirt for flappy
 
 ## Features&Traits
 
@@ -253,7 +247,7 @@ Int + 1/2 artificer level spells:
   - Mending [^artificer]
   - Shocking grasp [^artificer] 2d8 (advantage vs metal, supress reaction)
   - Toll the dead [^magic-initiate] 2d8/2d12 wis save
-  - Sword burst [^magic-initiate]
+  - Sword burst [^magic-initiate] 2d6 to all dex save
 
 ### Level 1
 
@@ -281,4 +275,75 @@ Int + 1/2 artificer level spells:
 [^rock-gnome]: Rock gnome
 [^fey-touched]: Feat
 [^magic-initiate]: Feat
+[^tinker]: Rock gnome feature [^rock-gnome]
+[^magical-tinkering]: Artificer feature [^artificer]
+[^infusion]: Artificer feature [^artificer]
+
+# Flappy
+
+Clockwork pseudodragon. Psychadelic colour scheme. Pocketwatch [^infusion] acts as heart. Homunculus Servant
+
+Tiny construct AC 13 (natural armor)
+Hit Points 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)
+Speed 20 ft., fly 30 ft.
+STR
+4 (-3)DEX
+15 (+2)CON
+12 (+1)INT
+10 (+0)WIS
+10 (+0)CHA
+7 (-2)
+Saving Throws Dex +2 plus PB
+Skills Perception +0 plus PB x 2, Stealth +2 plus PB
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 10 + (PB x 2)
+Languages understands the languages you speak
+Challenge -     Proficiency Bonus equals your bonus
+Evasion. If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
+
+Actions
+Force Strike. Ranged Weapon Attack: your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.
+
+Reactions
+Channel Magic. The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
+
+Mend restores 2d6
+
+## Inventory
+
+   - Hooded robe pseudo dragon sized (black, lining red gold silk)
+   - Chain shirt for flappy
+   - Stone with stink bomb on drop [^magical-tinkering]
+   - Stone with magic mouth "Over here! Hey!"
+   - Stone with creaking sound (60s after drop) [^magical-tinkering]
+   - Stone screams (60s after drop) [^magical-tinkering]
+   - Stone emitting light [^magical-tinkering]
+   - Stone painted like fake acme dynamite [^magical-tinkering]
+
+# Horses
+
+Clompy, shire horse black, white hooves.
+Stompy, shire horse black, white hooves, white stripe on nose.
+
+# Familiar
+Hooty
+
+Owl
+Tiny beast, unaligned
+
+Armor Class 11
+Hit Points 1 (1d4 - 1)
+Speed 5ft., fly 60ft.
+STR DEX CON INT WIS CHA
+3 (-4) 13 (+1) 8 (-1) 2 (-4) 12 (+1) 7 (-2)
+Skills Perception +3, Stealth + 3
+Senses Darkvision 120ft., passive Perception 13
+Challenge 0 (10 XP)
+Flyby. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+
+Keen Hearing and Sight. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+
+Actions
+Talons. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 (1d1) piercing damage.
 
