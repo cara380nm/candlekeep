@@ -138,7 +138,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        100 |
-| GP |       1 |       1313 |
+| GP |       1 |       1825 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -149,7 +149,6 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
    - Hooded robe small (black, lining green gold silk)
-   - Gloves of missile snaring
  - Weapons:
    - Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
@@ -176,6 +175,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Green agate ring
  - Back of tricks (rust)
  - Wand of web (attune)
+ - 3 diamonds
 
 ## Misc
 
