@@ -138,7 +138,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        100 |
-| GP |       1 |       1825 |
+| GP |       1 |       1822 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -176,6 +176,11 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Back of tricks (rust)
  - Wand of web (attune)
  - 3 diamonds
+ - 20xsugar lumps
+ - 2 bottles cider
+ - Apple pie
+ - Spare apples
+ - Automatic duck feeder plans
 
 ## Misc
 
