@@ -137,8 +137,8 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
-| PP |    1/10 |        100 |
-| GP |       1 |       1829 |
+| PP |    1/10 |        101 |
+| GP |       1 |       1833 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -182,6 +182,10 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Spare apples
  - Automatic duck feeder plans
  - 50gp garnet
+ - Poison vial wyvern
+ - Necromancer warlock components
+ - Necromancer cult robes
+ - 6 pack of dwarvwn ale
 
 ## Misc
 
