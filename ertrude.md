@@ -138,7 +138,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        100 |
-| GP |       1 |       1822 |
+| GP |       1 |       1829 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -181,6 +181,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Apple pie
  - Spare apples
  - Automatic duck feeder plans
+ - 50gp garnet
 
 ## Misc
 
