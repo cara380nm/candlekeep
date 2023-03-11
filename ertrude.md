@@ -138,7 +138,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |       1983 |
+| GP |       1 |       1783 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -186,6 +186,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Necromancer warlock components
  - Necromancer cult robes
  - 6 pack of dwarven ale
+ - Dwarf costume. Stick on beard
 
 ## Misc
 
