@@ -138,7 +138,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |       4304 |
+| GP |       1 |       4342 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
