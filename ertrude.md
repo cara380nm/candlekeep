@@ -150,9 +150,11 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
    - Breastplate (AC: 14, no stealth penalty)
    - Hooded robe small (black, lining green gold silk)
  - Weapons:
-   - Dagger 1d4 [^artificer]
+   - 3x Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
    - Light crossbow, 20 bolts [^artificer]
+   - Cog of restraint 1d6 throwing
+   - Rapier
  - Tools:
    - Thief tools [^artificer]
    - Woodworking artisan tools [^artificer]
@@ -187,6 +189,7 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
  - Necromancer cult robes
  - 6 pack of dwarven ale
  - Dwarf costume. Stick on beard
+
 
 ## Misc
 
