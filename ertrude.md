@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 77        |         | 12                  |
+| 77        |         | 11                  |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
