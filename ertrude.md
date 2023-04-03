@@ -6,7 +6,7 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |     9 | 1d8 |
+| Artificer | Artillerist |    10 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       |
@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 77        |         | 11                  |
+| 84        |         | 12                  |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
@@ -104,13 +104,15 @@ Up to int-mod tiny items can be enchanted to either: [^artificer]
  * Static visual effect
 
 ### Infuse item [^infusion]
-After long rest, imbue infusions to 3 objects. Max 1 infusion per object [^artificer] Known infusions:
- * Spell refueling ring (attune)
- * Homunculus
- * Boots of the Winding Path (attune)
- * Enhanced arcane focus (attune)
- * Armor of Magical Strength (attune)
+After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artificer] Known infusions:
+ * :o: Spell refueling ring (attune)
+ * :o: Homunculus
+ * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
+ * :o: Winged Boots (attune)
+ * Cloak of elvenkind (attune)
  * Lantern of revealing
+ * Cloak of protection (attune) +1 AC & saves
+ * Boots of the Winding Path (attune)
 
 ### Artificer Specialist
 Artillerist [^artificer]
@@ -132,6 +134,10 @@ When you or creature in 30 feet makes ability check/save, use reaction to add in
 
 ### Arcane Firearm
 Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage rolls. [^artillerist]
+
+### Magic Item Adept
+You can attune to up to four magic items at once.
+If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold
 
 ## Money
 
@@ -253,12 +259,14 @@ Int + 1/2 artificer level spells:
     - Fireball (bonus artillerist [^artillerist] always prepared)
     - Wind wall (bonus artillerist [^artillerist] always prepared)
     - Ashardalon's Stride
+    - Revivify
 
 ### Cantrips
   - Mending [^artificer]
-  - Shocking grasp [^artificer] 2d8 (advantage vs metal, supress reaction)
+  - Guidance [^artificer] d4 to skill check
   - Toll the dead [^magic-initiate] 2d8/2d12 wis save
   - Sword burst [^magic-initiate] 2d6 to all dex save
+  - Firebolt [^artificer] 2d10 120ft
 
 ### Level 1
 
