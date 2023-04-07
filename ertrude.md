@@ -1,8 +1,8 @@
 # Character
 
-| Name    | Background    | Race       | Type     | Size  | Alignment       | XP |
-|---------|---------------|------------|----------|-------|-----------------|----|
-| Ertrude | Guild Artisan | Rock Gnome | Humanoid | Small | Chaotic Neutral |    |
+| Name    | Background    | Race       | Type     | Size  | Alignment       | XP | Deity |
+|---------|---------------|------------|----------|-------|-----------------|----|---|
+| Ertrude | Guild Artisan | Rock Gnome | Humanoid | Small | Chaotic Neutral |    |"The blessed child", actually Leira.  |
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
@@ -202,16 +202,19 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 ## Misc
 
 ###### Personality Traits
-Want to understand how things work
+Somewhat manic, happy-go-lucky except in the face of obvious great injustice. Somewhat child-like
 
 ###### Ideals
-TODO
+ * Petty rules don't apply to me
+ * I will not murder an innocent or surrendered person
 
 ###### Bonds
-TODO
+ * I don't need blood family
+ * Its not about perfecting my craft, I just want crazy toys
 
 ###### Flaws
-TODO
+ * Impulse driven
+ * Enjoys causing consternation in the powerful
 
 ## Features&Traits
 
@@ -227,7 +230,7 @@ TODO
 | Hair    | Brown, short |
 
 ###### Backstory
-TODO
+IOU one backstory
 
 ## Spells
 
