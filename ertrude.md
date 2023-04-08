@@ -144,7 +144,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |       4040 |
+| GP |       1 |      12373 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -183,7 +183,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Green agate ring
  - Back of tricks (rust)
  - Wand of web (attune)
- - 3 diamonds
+ - 4 diamonds 100gp each
  - 20xsugar lumps
  - 2 bottles cider
  - Apple pie
@@ -198,6 +198,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Oil of etherealness
  - 2xHealing potion
  - Several scales
+ - 
 
 ## Misc
 
@@ -231,6 +232,7 @@ Somewhat manic, happy-go-lucky except in the face of obvious great injustice. So
 
 ###### Backstory
 IOU one backstory
+From town with platinum mine. My people weren't around.
 
 ## Spells
 
