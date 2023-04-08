@@ -10,3 +10,6 @@
 | Brenda | Wooden cutlery     |  ?      |       |                       |
 | Brenda | Enchanted babygrow     |   ?     |       |                       |
 | Flappy | Stone of good luck     |   Uncommon     |       |                       |
+| Norbin | Cloak of billowing     |   Common     |       |                       |
+| Norbin | Headband of Intellect      |   Uncommon     |       |                       |
+| Norbin | Eldritch Claw Tattoo     |   Uncommon     |       |                       |
