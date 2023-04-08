@@ -144,7 +144,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |       4042 |
+| GP |       1 |       4040 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -197,7 +197,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Dwarf costume. Stick on beard
  - Oil of etherealness
  - 2xHealing potion
-
+ - Several scales
 
 ## Misc
 
@@ -350,6 +350,7 @@ Mend restores 2d6
    - Stone screams (60s after drop) [^magical-tinkering]
    - Stone emitting light [^magical-tinkering]
    - Stone painted like fake acme dynamite [^magical-tinkering]
+   - 1 ruby
 
 ### Horses
 
