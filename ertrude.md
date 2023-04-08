@@ -144,7 +144,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      12373 |
+| GP |       1 |      12173 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -198,7 +198,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Oil of etherealness
  - 2xHealing potion
  - Several scales
- - 
+ - Swiss army spork (all purpose tool)
 
 ## Misc
 
