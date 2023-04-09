@@ -9,14 +9,14 @@
 | Artificer | Artillerist |    10 | 1d8 |
 
 ## Stats
-| Stat  | Value    | Mod        | Save       |
-| ----- | -------: | ---------: | -----:     |
-| Int   | 20       | +5         | Proficient |
-| Con   | 15       | +2         | Proficient |
-| Wis   | 13       | +1         |            |
-| Cha   | 12       | +1         |            |
-| Str   | 9        | -1         |            |
-| Dex   | 8        | -1         |            |
+| Stat  | Value    | Mod        | Save       | Mods    |
+| ----- | -------: | ---------: | -----:     | ----:   |
+| Int   | 20       | +5         | Proficient | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
+| Con   | 15       | +2         | Proficient | |
+| Wis   | 13       | +1         |            | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
+| Cha   | 12       | +1         |            | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
+| Str   | 9        | -1         |            | |
+| Dex   | 8        | -1         |            | |
 
 ## Skills
 
@@ -65,23 +65,14 @@
 | Field              |              Value |
 |--------------------|-------------------:|
 | Proficiency bonus  |                 +4 |
-| AC                 |                 12 |
-| Initiative         |                Dex |
+| AC                 |                 14 half plate - 1 Dex |
+| Initiative         |             -1 Dex |
 | Walking Speed      | 25ft [^rock-gnome] |
 | Passive perception |                    |
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
 | 84        |         | 12                  |
-
-## Attacks
-| Attack | Attack Bonus | Damage type | Note |
-|--------|--------------|-------------|------|
-|        |              |             |      |
-|        |              |             |      |
-|        |              |             |      |
-|        |              |             |      |
-|        |              |             |      |
 
 ## Abilities
 
@@ -105,7 +96,7 @@ Up to int-mod tiny items can be enchanted to either: [^artificer]
 
 ### Infuse item [^infusion]
 After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artificer] Known infusions:
- * :o: Spell refueling ring (attune)
+ * :o: Spell refueling ring (attune) - recover a level 3 slot per day
  * :o: Homunculus
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
  * :o: Winged Boots (attune)
@@ -164,6 +155,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Tools:
    - Thief tools [^artificer]
    - Woodworking artisan tools [^artificer]
+   - +1 Swiss army spork (all purpose tool) (any type of artisan's tool w/ auto proficiency, +1 to spell attack and save DC), once a day pick a cantrip to know for 8 hours)
  - Letter of introduction from guild [^guild-artisan]
  - 1 pound bright red egg
  - Lantern
@@ -198,7 +190,6 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Oil of etherealness
  - 2xHealing potion
  - Several scales
- - Swiss army spork (all purpose tool)
 
 ## Misc
 
@@ -238,11 +229,11 @@ From town with platinum mine. My people weren't around.
 
 ### Artificer [^artificer]
 
-| Feature              | Value          |
-|----------------------|----------------|
-| Spellcasting ability | Int            |
-| Spell save DC        | 8+prof+int mod |
-| Spell attack bonus   | prof+int mod   |
+| Feature              | Value          | Mods  |
+|----------------------|----------------|-------|
+| Spellcasting ability | Int            | |
+| Spell save DC        | 8+prof+int mod | +1 Swiss army spork |
+| Spell attack bonus   | prof+int mod   | +1 Swiss army spork, +2 from enhanced arcane focus |
 
 ### Prepared spells
 Int + 1/2 artificer level spells:
@@ -273,6 +264,8 @@ Int + 1/2 artificer level spells:
   - Sword burst [^magic-initiate] 2d6 to all dex save
   - Firebolt [^artificer] 2d10 120ft
 
++1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
+
 ### Level 1
 
 #### Slots
@@ -289,7 +282,7 @@ Int + 1/2 artificer level spells:
 ### Level 3
 
 #### Slots
-  - :o: :o: Regular spells
+  - :o: :o: Regular spells (Spell refueling ring can recover one)
 
 ## Notes
 
