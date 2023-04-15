@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 84        |         | 12                  |
+| 84        |         | 2                   |
 
 ## Abilities
 
@@ -175,7 +175,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Green agate ring
  - Back of tricks (rust)
  - Wand of web (attune)
- - 4 diamonds 100gp each
+ - 1 x diamonds 100gp each
  - 20xsugar lumps
  - 2 bottles cider
  - Apple pie
