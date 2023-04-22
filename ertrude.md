@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 84        |         | 2                   |
+| 84        |     16    | 0                   |
 
 ## Abilities
 
@@ -167,7 +167,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
    - 10 pitons
    - 10 torches
    - a Tinderbox
-   - 10 days of Rations
+   - 20 days of Rations
    - a Waterskin
    - 50 feet of Hempen rope
  - Toys
