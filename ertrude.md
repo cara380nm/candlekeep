@@ -135,7 +135,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      12173 |
+| GP |       1 |      12143 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -145,6 +145,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Clothing:
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
+   - Isosceles triangle shield
    - Hooded robe small (black, lining green gold silk)
  - Weapons:
    - 3x Dagger 1d4 [^artificer]
@@ -157,7 +158,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
    - Woodworking artisan tools [^artificer]
    - +1 Swiss army spork (all purpose tool) (any type of artisan's tool w/ auto proficiency, +1 to spell attack and save DC), once a day pick a cantrip to know for 8 hours)
  - Letter of introduction from guild [^guild-artisan]
- - 1 pound bright red egg
+ - 2x1 pound bright red egg
  - Lantern
  - Bag of holding
  - Dungeoneer's Pack [^artificer]
