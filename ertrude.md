@@ -135,7 +135,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      12143 |
+| GP |       1 |      12043 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
