@@ -191,6 +191,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Oil of etherealness
  - 4xHealing potion
  - Several scales
+ - cannon manual powered by elemental air
 
 ## Misc
 
