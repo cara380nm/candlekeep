@@ -347,6 +347,8 @@ Mend restores 2d6
    - Stone emitting light [^magical-tinkering]
    - Stone painted like fake acme dynamite [^magical-tinkering]
    - 1 ruby
+   - Stonkys ring
+   - Agate from sea dragon
 
 ### Horses
 
