@@ -135,7 +135,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      11280 |
+| GP |       1 |      11230 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -192,6 +192,8 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - 4xHealing potion
  - Several scales
  - cannon manual powered by elemental air
+ - 1x portion cold resistance
+ - cloudpeaks travel guide
  - Scroll greater restoration
 
 ## Misc
