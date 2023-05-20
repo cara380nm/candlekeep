@@ -353,6 +353,8 @@ Mend restores 2d6
    - 1 ruby
    - Stonkys ring
    - Agate from sea dragon
+   - Small shiny orb
+   - Tiny woollen hat
 
 ### Horses
 
