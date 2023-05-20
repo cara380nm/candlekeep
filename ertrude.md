@@ -135,7 +135,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      12080 |
+| GP |       1 |      11280 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -176,7 +176,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Green agate ring
  - Back of tricks (rust)
  - Wand of web (attune)
- - 1 x diamonds 100gp each
+ - 8 x diamonds 100gp each
  - 20xsugar lumps
  - 2 bottles cider
  - Apple pie
@@ -192,6 +192,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - 4xHealing potion
  - Several scales
  - cannon manual powered by elemental air
+ - Scroll greater restoration
 
 ## Misc
 
