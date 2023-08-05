@@ -11,7 +11,7 @@
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods    |
 | ----- | -------: | ---------: | -----:     | ----:   |
-| Int   | 20       | +5         | Proficient | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
+| Int   | 22       | +6         | Proficient | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
 | Con   | 15       | +2         | Proficient | |
 | Wis   | 13       | +1         |            | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
 | Cha   | 12       | +1         |            | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
