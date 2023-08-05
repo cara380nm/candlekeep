@@ -363,7 +363,7 @@ Clompy, shire horse black, white hooves. Winged.
 Stompy, shire horse black, white hooves, white stripe on nose. Winged
 
 40 ft.	540 lb
-Flying speed: 90ft
+Flying speed: 80ft
 
 ### Familiar
 
