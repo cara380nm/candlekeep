@@ -355,11 +355,15 @@ Mend restores 2d6
    - Agate from sea dragon
    - Small shiny orb
    - Tiny woollen hat
+   - Tiny pike
 
 ### Horses
 
-Clompy, shire horse black, white hooves.
-Stompy, shire horse black, white hooves, white stripe on nose.
+Clompy, shire horse black, white hooves. Winged.
+Stompy, shire horse black, white hooves, white stripe on nose. Winged
+
+40 ft.	540 lb
+Flying speed: 90ft
 
 ### Familiar
 
