@@ -195,6 +195,11 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - cloudpeaks travel guide
  - Scroll greater restoration
  - Baldurs gate guidebook
+ - Pirate silverware
+ - Pirate chest
+ - Pirate porn
+ - Exotic fruits
+ - Furs & velvet robe
 
 ## Misc
 
