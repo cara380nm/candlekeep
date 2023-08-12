@@ -202,6 +202,12 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Furs & velvet robe
  - 2 scimitars
  - 3 hand crossbows
+ - Captain hat
+ - Captain bangles gold
+ - Captain necklace gold saphire
+ - Captain key
+ - Captain rings gold
+ - 
 
 ## Misc
 
