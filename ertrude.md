@@ -363,7 +363,7 @@ Mend restores 2d6
    - Stone screams (60s after drop) [^magical-tinkering]
    - Stone emitting light [^magical-tinkering]
    - Stone painted like fake acme dynamite [^magical-tinkering]
-   - 1 ruby
+   - 3 ruby
    - Stonkys ring
    - Agate from sea dragon
    - Small shiny orb
