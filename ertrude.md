@@ -200,6 +200,8 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Pirate porn
  - Exotic fruits
  - Furs & velvet robe
+ - 2 scimitars
+ - 3 hand crossbows
 
 ## Misc
 
