@@ -194,6 +194,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - 1x portion cold resistance
  - cloudpeaks travel guide
  - Scroll greater restoration
+ - Baldurs gate guidebook
 
 ## Misc
 
