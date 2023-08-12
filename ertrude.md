@@ -135,7 +135,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      13451 |
+| GP |       1 |      13701 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -175,7 +175,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
    - Talking squirrel. Demands nuts [^tinker]
  - Green agate ring
  - Back of tricks (rust)
- - 9 x diamonds 100gp each
+ - 21 x diamonds 100gp each
  - 20xsugar lumps
  - 2 bottles cider
  - Apple pie
