@@ -99,9 +99,9 @@ After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artif
  * :o: Spell refueling ring (attune) - recover a level 3 slot per day
  * :o: Homunculus
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
- * :o: Winged Boots (attune)
+ * Winged Boots (attune)
  * Cloak of elvenkind (attune)
- * Lantern of revealing
+ * :o: Lantern of revealing
  * Cloak of protection (attune) +1 AC & saves
  * Boots of the Winding Path (attune)
 
@@ -147,6 +147,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
    - Breastplate (AC: 14, no stealth penalty)
    - Isosceles triangle shield
    - Hooded robe small (black, lining green gold silk)
+   - Cloak of elvenkind
  - Weapons:
    - 3x Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
@@ -195,7 +196,6 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - cloudpeaks travel guide
  - Scroll greater restoration
  - Baldurs gate guidebook
- - Cloak of elvenkind
  - Pirate chest and key
  - Exotic fruits
 
