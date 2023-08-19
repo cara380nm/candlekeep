@@ -252,6 +252,7 @@ Int + 1/2 artificer level spells:
     - Grease
     - Detect magic
     - Faerie fire
+    - Alarm
   - Level 2:
     - Scorching ray (bonus artillerist [^artillerist] always prepared)
     - Shatter (bonus artillerist [^artillerist] always prepared)
