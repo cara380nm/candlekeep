@@ -134,8 +134,8 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
-| PP |    1/10 |        101 |
-| GP |       1 |      13251 |
+| PP |    1/10 |       1301 |
+| GP |       1 |       1851 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -195,19 +195,9 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - cloudpeaks travel guide
  - Scroll greater restoration
  - Baldurs gate guidebook
- - Pirate silverware
- - Pirate chest
- - Pirate porn
- - Exotic fruits
- - Furs & velvet robe
- - 2 scimitars
- - 3 hand crossbows
- - Captain hat
- - Captain bangles gold
- - Captain necklace gold saphire
- - Captain key
- - Captain rings gold
  - Cloak of elvenkind
+ - Pirate chest and key
+ - Exotic fruits
 
 ## Misc
 
