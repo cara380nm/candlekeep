@@ -135,7 +135,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |        101 |
-| GP |       1 |      13701 |
+| GP |       1 |      13251 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -207,7 +207,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
  - Captain necklace gold saphire
  - Captain key
  - Captain rings gold
- - 
+ - Cloak of elvenkind
 
 ## Misc
 
