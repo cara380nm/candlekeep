@@ -253,9 +253,8 @@ Int + 1/2 artificer level spells:
     - Thunderwave (bonus artillerist [^artillerist] always prepared)
     - Shield (bonus artillerist [^artillerist] always prepared)
     - Cure wounds
-    - Grease
+    - Snare
     - Detect magic
-    - Faerie fire
     - Alarm
   - Level 2:
     - Scorching ray (bonus artillerist [^artillerist] always prepared)
@@ -263,19 +262,20 @@ Int + 1/2 artificer level spells:
     - Invisibility
     - Alter self
     - Lesser restoration
-    - Enlarge/reduce
   - Level 3:
     - Fireball (bonus artillerist [^artillerist] always prepared)
     - Wind wall (bonus artillerist [^artillerist] always prepared)
-    - Ashardalon's Stride
+    - Haste
+    - Blink
+    - Dispell
     - Revivify
 
 ### Cantrips
   - Mending [^artificer]
   - Guidance [^artificer] d4 to skill check
-  - Toll the dead [^magic-initiate] 2d8/2d12 wis save
-  - Sword burst [^magic-initiate] 2d6 to all dex save
-  - Firebolt [^artificer] 2d10 120ft
+  - Toll the dead [^magic-initiate] 3d8/3d12 wis save
+  - Sword burst [^magic-initiate] 3d6 to all dex save
+  - Firebolt [^artificer] 3d10 120ft
 
 +1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
 
@@ -289,7 +289,7 @@ Int + 1/2 artificer level spells:
 ### Level 2
 
 #### Slots
-  - :o: :o: Regular spells
+  - :o: :o: :o: Regular spells
   - :o: 1/day misty step [^fey-touched]
 
 ### Level 3
