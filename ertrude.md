@@ -6,7 +6,7 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |    10 | 1d8 |
+| Artificer | Artillerist |    11 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods    |
@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 84        |     16    | 0                   |
+| 91        |     0   | 0                   |
 
 ## Abilities
 
@@ -99,17 +99,17 @@ After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artif
  * :o: Spell refueling ring (attune) - recover a level 3 slot per day
  * :o: Homunculus
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
- * Winged Boots (attune)
- * Cloak of elvenkind (attune)
  * :o: Lantern of revealing
+ * Winged Boots (attune)
+ * Helm of awareness (attune) Advantage on initiative. Can't be surprised
  * Cloak of protection (attune) +1 AC & saves
- * Boots of the Winding Path (attune)
+ * Enhanced Defense (+2 AC). Armour or shield
 
 ### Artificer Specialist
 Artillerist [^artificer]
 
 ### Eldritch Cannon
-Action to create small/tiny. 1 per long rest (or expend spell slot). Mending restores 2d6. Decide appearance. Can walk or climb with legs. [^artillerist]
+Action to create small/tiny. 1 per long rest (or expend spell slot). 5 xlevel HP. Mending restores 2d6. Decide appearance. Can walk or climb with legs. [^artillerist]
  * Flamethrower. 15ft cone. 3d8 damage. Dex save for half.
  * Force ballista. Ranged spell attack. 120ft. 3d8 force & pushed 5 ft
  * Protector. 1d8+intmod temporary hp to itself & all within 10ft
@@ -130,6 +130,10 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 You can attune to up to four magic items at once.
 If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold
 
+### Spell Storing Item
+After long rest can imbue a simple/martial weapon/artificer-spellcasting-focus with a 1st/2nd level artificer spell taking 1 action (needn't be prepared)
+Creature holding object can use action to produce the spell effect using my spellcasting ability. Creature must concentrated if spell requires. Castable int x2 times or until feature used again.
+
 ## Money
 
 |    | 1 GP is | Coins held |
@@ -147,7 +151,7 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
    - Breastplate (AC: 14, no stealth penalty)
    - Isosceles triangle shield
    - Hooded robe small (black, lining green gold silk)
-   - Cloak of elvenkind
+   - Cloak of elvenkind (attune)
  - Weapons:
    - 3x Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
@@ -291,7 +295,7 @@ Int + 1/2 artificer level spells:
 ### Level 3
 
 #### Slots
-  - :o: :o: Regular spells (Spell refueling ring can recover one)
+  - :o: :o: :o: Regular spells (Spell refueling ring can recover one)
 
 ## Notes
 
