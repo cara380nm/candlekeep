@@ -51,5 +51,6 @@ Mend restores 2d6
    - Small shiny orb
    - Tiny woollen hat
    - Tiny pike
+   - Tiny dagger with spell storing item: enhance ability
 
 
