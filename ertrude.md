@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 91        |     4   | 0                   |
+| 91        |     6   | 0                   |
 
 ## Abilities
 
