@@ -72,7 +72,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 91        |     0   | 0                   |
+| 91        |     6   | 0                   |
 
 ## Abilities
 
@@ -139,7 +139,7 @@ Creature holding object can use action to produce the spell effect using my spel
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |       1301 |
-| GP |       1 |       1351 |
+| GP |       1 |       2734 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -180,7 +180,7 @@ Creature holding object can use action to produce the spell effect using my spel
    - Talking squirrel. Demands nuts [^tinker]
  - Green agate ring
  - Back of tricks (rust)
- - 21 x diamonds 100gp each
+ - 18 x diamonds 100gp each
  - 20xsugar lumps
  - 2 bottles cider
  - Apple pie
@@ -198,7 +198,6 @@ Creature holding object can use action to produce the spell effect using my spel
  - cannon manual powered by elemental air
  - 1x portion cold resistance
  - cloudpeaks travel guide
- - Scroll greater restoration
  - Baldurs gate guidebook
  - Pirate chest and key
  - Exotic fruits
