@@ -279,22 +279,21 @@ Int + 1/2 artificer level spells:
 
 +1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
 
-### Level 1
+### Slots
 
-#### Slots
+#### Level 1
+
   - :o: :o: :o: :o: Regular spells
   - :o: 1/day command [^fey-touched]]
   - :o: 1/day find familiar [^magic-initiate]
 
-### Level 2
+#### Level 2
 
-#### Slots
   - :o: :o: :o: Regular spells
   - :o: 1/day misty step [^fey-touched]
 
-### Level 3
+#### Level 3
 
-#### Slots
   - :o: :o: :o: Regular spells (Spell refueling ring can recover one)
 
 ## Notes
