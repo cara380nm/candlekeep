@@ -157,7 +157,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Iron door - can be placed in opening
    - Iron door - can be placed in opening
    - 10 gems worth 100gp each
-   - 24ft wooden ladder
    - Pit 10ft^2
    - 4 potions of healing
    - 12ft rowboat
