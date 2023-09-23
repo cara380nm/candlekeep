@@ -119,6 +119,8 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Clothing:
    - Travellers clothes [^background-archaeologist]
    - Studded Leather
+   - Pith helmet
+   - Nightcap
  - Weapons:
    - Sickle 1d4 [^warlock]
    - 2 daggers finesse 20/60 1d4 [^warlock]
