@@ -227,6 +227,7 @@ TODO
     - Hex [^fae-touched]
     - Ritual only: Identify [^book-of-ancient-secrets]
     - Ritual only: Speak with Animals [^book-of-ancient-secrets]
+    - Ritual only: Detect magic [^book-of-ancient-secrets]
   - Level 2:
     - Misty step [^fae-touched]
   - Level 3:
