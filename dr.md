@@ -257,11 +257,11 @@ TODO
 
 #### Ring of Spell Storing
 [^ring-of-spell-storing]
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Flaming sphere
+  - X
+  - Phantom Steed
+  - X
+  - X
 
 #### Level 1
   - :o: 1/day Hex [^fae-touched]
