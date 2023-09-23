@@ -2,7 +2,7 @@
 
 | Name    | Background      | Race                  | Type      | Size    | Alignment       | XP | Deity |
 |---------|-----------------|-----------------------|-----------|---------|-----------------|----|---|
-| TODO    | Archaeologist   | Custom lineage human  | Humanoid  | Medium  | True Neutral    |    |   |
+| Rex Metcalfe    | Archaeologist   | Custom lineage human  | Humanoid  | Medium  | True Neutral    |    |   |
 
 | Class     | Subclass                      | Level | HD  |
 |-----------|-------------------------------|------:|-----|
