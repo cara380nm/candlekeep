@@ -229,6 +229,8 @@ TODO
     - Ritual only: Detect magic [^book-of-ancient-secrets]
   - Level 2:
     - Misty step [^fae-touched]
+    - TODO-COPY-ME Ritual only: Leomund's TinyHut
+    - TODO-COPY-ME Ritual only: Water breathing
   - Level 3:
     - Create Food and Water [^warlock]
     - Intellect Fortress [^warlock]
@@ -237,6 +239,7 @@ TODO
     - Phantasmal Killer [^warlock]
     - Banishment [^warlock]
     - Shadow of Moil (obscurement confers attack advantage and enemy disadvantage) [^warlock]
+    - TODO-COPY-ME Ritual only: Divination
   - Level 5:
     - Seeming [^warlock]
     - Creation [^warlock]
