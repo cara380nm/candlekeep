@@ -232,8 +232,8 @@ TODO
     - TODO-COPY-ME Ritual only: Leomund's TinyHut
     - TODO-COPY-ME Ritual only: Water breathing
   - Level 3:
-    - Create Food and Water [^warlock]
-    - Intellect Fortress [^warlock]
+    - Dispel magic [^warlock]
+    - Counterspell [^warlock]
   - Level 4:
     - Greater Invisibility [^warlock]
     - Phantasmal Killer [^warlock]
