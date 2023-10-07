@@ -109,7 +109,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |        475 |
+| GP |       1 |        275 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -227,6 +227,7 @@ TODO
     - Ritual only: Identify [^book-of-ancient-secrets]
     - Ritual only: Speak with Animals [^book-of-ancient-secrets]
     - Ritual only: Detect magic [^book-of-ancient-secrets]
+    - TODO-COPY-ME Ritual only: Detect poison and disease
   - Level 2:
     - Misty step [^fae-touched]
     - TODO-COPY-ME Ritual only: Leomund's TinyHut
@@ -239,7 +240,7 @@ TODO
     - Phantasmal Killer [^warlock]
     - Banishment [^warlock]
     - Shadow of Moil (obscurement confers attack advantage and enemy disadvantage) [^warlock]
-    - TODO-COPY-ME Ritual only: Divination
+    - Ritual only: Divination
   - Level 5:
     - Seeming [^warlock]
     - Creation [^warlock]
@@ -260,11 +261,11 @@ TODO
 
 #### Ring of Spell Storing
 [^ring-of-spell-storing]
-  - Flaming sphere
-  - X
-  - Phantom Steed
-  - X
-  - X
+  - Cure Wounds
+  - Cure Wounds
+  - Cure Wounds
+  - Shield
+  - Shield
 
 #### Level 1
   - :o: 1/day Hex [^fae-touched]
