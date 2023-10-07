@@ -67,7 +67,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 69 (102 with [^amulet-of-health])       |     0   | 0                   |
+| 70 (103 with [^amulet-of-health])       |     0   | 0                   |
 
 ## Abilities
 
@@ -201,7 +201,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 | Feature | Description  |
 |---------|--------------|
 | Age     | 45           |
-| Height  | 5'8"         |
+| Height  | 5'9"         |
 | Weight  | 80kg         |
 | Eyes    | Gray         |
 | Skin    | White        |
