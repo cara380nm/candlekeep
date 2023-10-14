@@ -249,7 +249,7 @@ TODO
     - Mislead [^warlock]
 
 ### Cantrips
-  - Eldritch Blast 3d10 * 3 beams@11th with ranged attack 120ft [^warlock]
+  - Eldritch Blast 1d10 (each +cha,10ft push back via invocations) * 3 beams@11th with ranged attack 120ft [^warlock]
   - Minor Illusion [^warlock]
   - Prestidigitation [^warlock]
   - Mind sliver 3d6@11th and -1d4 to next save, int save [^warlock]
