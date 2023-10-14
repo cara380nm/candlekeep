@@ -115,7 +115,10 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 | CP |     100 |            |
 
 ## Equipment
-
+ - In 20ft tall, 20ft radius lamp:
+   - Cushions
+   - Low tables
+   - 12ft rowboat full of water
  - Clothing:
    - Travellers clothes [^background-archaeologist]
    - Studded Leather
@@ -159,7 +162,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - 10 gems worth 100gp each
    - Pit 10ft^2
    - 4 potions of healing
-   - 12ft rowboat
    - 2x mastiffs
    - 2x mastiffs
    - Window 2x4ft. Max 2ft deep. Place on vertical surface
@@ -227,11 +229,13 @@ TODO
     - Ritual only: Identify [^book-of-ancient-secrets]
     - Ritual only: Speak with Animals [^book-of-ancient-secrets]
     - Ritual only: Detect magic [^book-of-ancient-secrets]
-    - TODO-COPY-ME Ritual only: Detect poison and disease
+    - Ritual only: Detect poison and disease
   - Level 2:
     - Misty step [^fae-touched]
-    - TODO-COPY-ME Ritual only: Leomund's TinyHut
-    - TODO-COPY-ME Ritual only: Water breathing
+    - Ritual only: Leomund's TinyHut
+    - Ritual only: Water breathing
+    - Ritual only: Locate Animals or Plants
+    - Ritual only: Purify Food and Drink
   - Level 3:
     - Dispel magic [^warlock]
     - Counterspell [^warlock]
