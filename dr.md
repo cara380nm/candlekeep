@@ -109,7 +109,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       2018 |
+| GP |       1 |       2000 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -183,6 +183,8 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - a two-person tent [^background-archaeologist]
  - TODO a trinket recovered from a dig site [^background-archaeologist]
  - Mule - muriel
+   - Saddle bags
+   - Saddle (ridiing)
 
 ## Misc
 
