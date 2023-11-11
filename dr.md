@@ -255,6 +255,7 @@ TODO
     - Contact Other Plane [^warlock]
     - Wall of Light [^warlock]
     - Mislead [^warlock]
+    - Ritual only: Commune with nature
 
 ### Cantrips
   - Eldritch Blast 1d10 (each +cha,10ft push back via invocations) * 3 beams@11th with ranged attack 120ft [^warlock]
