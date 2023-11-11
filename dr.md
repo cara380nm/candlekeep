@@ -109,12 +109,13 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       2275 |
+| GP |       1 |       2018 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
 
 ## Equipment
+ - Alchemy jug blue
  - In 20ft tall, 20ft radius lamp:
    - Cushions
    - Low tables
@@ -181,6 +182,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - a shovel [^background-archaeologist]
  - a two-person tent [^background-archaeologist]
  - TODO a trinket recovered from a dig site [^background-archaeologist]
+ - Mule - muriel
 
 ## Misc
 
