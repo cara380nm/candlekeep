@@ -109,7 +109,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       2000 |
+| GP |       1 |       1998 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
