@@ -304,5 +304,6 @@ TODO
 [^eldritch-adept-feat]: Eldritch Adept Feat
 [^rod-of-pact-keeper]: Rod of the Pact Keeper
 [^amulet-of-health]: Amulet of Health
+[^attuned]: Attuned items (3)
 [^ring-of-spell-storing]: Ring of Spell Storing
 
