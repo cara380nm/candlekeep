@@ -86,7 +86,7 @@ Uses charisma
   * Book of Ancient Secrets [^book-of-ancient-secrets] (ritual from any class) [^warlock]
   * Maddening Hex (bonus act: cha mod psy damage to hexed and all within 5ft) [^warlock]
   * Repelling Blast [^repelling-blast] (push 10ft with each eldritch beam) [^warlock]
-  * Sculptor of Flesh (cast polymorph 1 per day) [^eldritch-adept]
+  * Sculptor of Flesh (cast polymorph 1 per day) [^eldritch-adept-feat]
 
 ### Pact of the Tome
 
@@ -295,14 +295,14 @@ TODO
 [^lineage]: Custom lineage human
 [^fae-touched]: Fae-touched feat
 [^pact-tome]: Pact of the Tome [^warlock] feature
-[^mystic-arcanum] Warlock feature
-[^background-archaeologist] Archaeologist background from Tomb of Annihilation
-[^book-of-ancient-secrets] Book of Ancient Secrets Eldritch Invocation
-[^repelling-blast] Repelling Blast Eldritch Invocation
-[^agonising-blast] Agonising Blast Eldritch Invocation
-[^skill-expert-feat] Skill Expert Feat
-[^eldritch-adept-feat] Eldritch Adept Feat
-[^rod-of-pact-keeper] Rod of the Pact Keeper
-[^amulet-of-health] Amulet of Health
-[^ring-of-spell-storing] Ring of Spell Storing
+[^mystic-arcanum]: Warlock feature
+[^background-archaeologist]: Archaeologist background from Tomb of Annihilation
+[^book-of-ancient-secrets]: Book of Ancient Secrets Eldritch Invocation
+[^repelling-blast]: Repelling Blast Eldritch Invocation
+[^agonising-blast]: Agonising Blast Eldritch Invocation
+[^skill-expert-feat]: Skill Expert Feat
+[^eldritch-adept-feat]: Eldritch Adept Feat
+[^rod-of-pact-keeper]: Rod of the Pact Keeper
+[^amulet-of-health]: Amulet of Health
+[^ring-of-spell-storing]: Ring of Spell Storing
 
