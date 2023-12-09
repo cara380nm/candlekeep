@@ -142,6 +142,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - [^attuned] Amulet of Health (Con is 19) [^amulet-of-health]
  - [^attuned] Ring of Spell Storing (hold 5 levels worth of spells) [^ring-of-spell-storing]
  - Bag of Holding
+   - 2 Volcano wine
  - Robe of Useful Items. Patches:
    - Dagger
    - Dagger
@@ -268,8 +269,7 @@ TODO
 
 ### Slots
 
-#### Ring of Spell Storing
-[^ring-of-spell-storing]
+#### Ring of Spell Storing [^ring-of-spell-storing]
   - Cure Wounds
   - Cure Wounds
   - Cure Wounds
