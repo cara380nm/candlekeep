@@ -67,7 +67,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 71 (103 with [^amulet-of-health])       |     0   | 0                   |
+| 71 (103 with [^amulet-of-health])       |     30   | 0                   |
 
 ## Abilities
 
