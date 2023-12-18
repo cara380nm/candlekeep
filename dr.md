@@ -6,7 +6,7 @@
 
 | Class     | Subclass                      | Level | HD  |
 |-----------|-------------------------------|------:|-----|
-| Warlock   | Genie (djinni) [^genie]       |    11 | 1d8 |
+| Warlock   | Genie (djinni) [^genie]       |    12 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods    |
@@ -27,7 +27,7 @@
 | Arcana          | Int  |                                                                                                |
 | Athletics       | Str  |                                                                                                |
 | Deception       | Cha  |                                                                                                |
-| History         | Int  | Proficient [^warlock]                                                         |
+| History         | Int  | Proficient [^warlock]                                                                          |
 | Insight         | Wis  |                                                                                                |
 | Intimidation    | Cha  |                                                                                                |
 | Investigation   | Int  | Proficient [^skill-expert-feat]                                                                |
@@ -61,13 +61,13 @@
 |--------------------|-------------------:|
 | Proficiency bonus  |                 +4 |
 | AC                 |                 12 Studded Leather + 2 Dex |
-| Initiative         |             +2 Dex |
+| Initiative         |             +2 Dex +5 alert [^alert-feat] |
 | Walking Speed      |    30ft [^lineage] |
 | Passive perception |                    |
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 71 (103 with [^amulet-of-health])       |     30   | 0                   |
+| 77 (112 with [^amulet-of-health])       |     30   | 0                   |
 
 ## Abilities
 
@@ -82,10 +82,11 @@ Uses charisma
 
 ### Eldritch Invocations
   * Agonising blast [^agonising-blast] (add cha to each eldritch blast beam) [^warlock]
-  * Ghostly Gaze (xray vision 30ft for 1 min  (1/short rest) [^warlock]
-  * Book of Ancient Secrets [^book-of-ancient-secrets] (ritual from any class) [^warlock]
-  * Maddening Hex (bonus act: cha mod psy damage to hexed and all within 5ft) [^warlock]
   * Repelling Blast [^repelling-blast] (push 10ft with each eldritch beam) [^warlock]
+  * Maddening Hex (bonus act: cha mod psy damage to hexed and all within 5ft) [^warlock]
+  * Book of Ancient Secrets [^book-of-ancient-secrets] (ritual from any class) [^warlock]
+  * Ghostly Gaze (xray vision 30ft for 1 min  (1/short rest) [^warlock]
+  * Whispers of the Grave (unlimited speak with dead without consuming slot) [^warlock]
   * Sculptor of Flesh (cast polymorph 1 per day) [^eldritch-adept-feat]
 
 ### Pact of the Tome
@@ -103,6 +104,11 @@ Uses charisma
 ### Historical Knowledge
 
 Entering a ruin or dungeon can ascertain original purpose, builder race. Can determine monetary value of old art objects
+
+### Alert Feat [^alert-feat]
+   * Can't be surprised while conscious.
+   * +5 bonus to initiative.
+   * Unseen creatures don't gain advantage on attack rolls
 
 ## Money
 
@@ -186,6 +192,8 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Mule - muriel
    - Saddle bags
    - Saddle (ridiing)
+ - Vial of poison
+ - 1 Headless Lich corpse (unsearched)
 
 ## Misc
 
@@ -237,7 +245,7 @@ TODO
     - Ritual only: Detect poison and disease
   - Level 2:
     - Misty step [^fae-touched]
-    - Ritual only: Leomund's TinyHut
+    - Ritual only: Leomund's Tiny Hut
     - Ritual only: Water breathing
     - Ritual only: Locate Animals or Plants
     - Ritual only: Purify Food and Drink
@@ -302,6 +310,7 @@ TODO
 [^agonising-blast]: Agonising Blast Eldritch Invocation
 [^skill-expert-feat]: Skill Expert Feat
 [^eldritch-adept-feat]: Eldritch Adept Feat
+[^alert-feat]: Alert Feat
 [^rod-of-pact-keeper]: Rod of the Pact Keeper
 [^amulet-of-health]: Amulet of Health
 [^attuned]: Attuned items (3)
