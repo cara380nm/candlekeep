@@ -282,7 +282,7 @@ TODO
   - Cure Wounds
   - Cure Wounds
   - Shield
-  - Empty
+  - Shield
 
 #### Level 1
   - :o: 1/day Hex [^fae-touched]
