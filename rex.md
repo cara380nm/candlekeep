@@ -67,7 +67,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 77 (112 with [^amulet-of-health])       |     30   | 0                   |
+| 77 (112 with [^amulet-of-health])       |     16   | 0                   |
 
 ## Abilities
 
@@ -197,21 +197,24 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 
 ## Misc
 
-###### Personality Traits
+### Personality Traits
  * Fixated on dinosaur history
 
-###### Ideals
+### Ideals
  * Knowledge is the only important legacy we leave. Extinctions or destruction of artifacts are the worst crime possible.
 
-###### Bonds
+### Bonds
  * Dinosaurs are threatened, and we must protect and study them as a species
 
-###### Flaws
+### Flaws
  * Absent minded. My research is the only topic worthy of sustained thought
+
+### Backstory
+TODO
 
 ## Features&Traits
 
-###### Character appearance
+### Character appearance
 
 | Feature | Description  |
 |---------|--------------|
@@ -221,9 +224,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 | Eyes    | Gray         |
 | Skin    | White        |
 | Hair    | Graying      |
-
-###### Backstory
-TODO
 
 ## Spells
 
