@@ -102,7 +102,6 @@ Uses charisma
   * Occupants gain short rest benefit after 10 mins inside. Add prof bonus to HP regained if HD spent
 
 ### Historical Knowledge
-
 Entering a ruin or dungeon can ascertain original purpose, builder race. Can determine monetary value of old art objects
 
 ### Alert Feat [^alert-feat]
@@ -115,12 +114,13 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       2284 |
+| GP |       1 |       4201 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
 
 ## Equipment
+ - Greater invisibility potion
  - Alchemy jug blue
  - In 20ft tall, 20ft radius lamp:
    - Cushions
@@ -131,9 +131,10 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Studded Leather
    - Pith helmet
    - Nightcap
+ - 1 box with poison trap. DC 22.
  - Weapons:
    - Sickle 1d4 [^warlock]
-   - 2 daggers finesse 20/60 1d4 [^warlock]
+   - 1 dagger finesse 20/60 1d4 [^warlock]
    - Handaxe 1d6 20/60 [^warlock]
  - Tools:
    - Cartographer's Tools
@@ -194,6 +195,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Saddle (ridiing)
  - Vial of poison
  - 1 Headless Lich corpse (unsearched)
+ - 5 gems, 100gp each
 
 ## Misc
 
