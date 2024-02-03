@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       4201 |
+| GP |       1 |       4751 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -189,13 +189,11 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - a miner's pick [^background-archaeologist]
  - a shovel [^background-archaeologist]
  - a two-person tent [^background-archaeologist]
- - TODO a trinket recovered from a dig site [^background-archaeologist]
+ - A small stone statue of a former goddess. Trinket recovered from a dig site [^background-archaeologist]
  - Mule - muriel
    - Saddle bags
    - Saddle (ridiing)
  - Vial of poison
- - 1 Headless Lich corpse (unsearched)
- - 5 gems, 100gp each
 
 ## Misc
 
