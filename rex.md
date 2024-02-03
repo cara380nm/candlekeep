@@ -2,7 +2,7 @@
 
 | Name    | Background      | Race                  | Type      | Size    | Alignment       | XP | Deity |
 |---------|-----------------|-----------------------|-----------|---------|-----------------|----|---|
-| Rex Metcalfe    | Archaeologist   | Custom lineage human  | Humanoid  | Medium  | True Neutral    |    |   |
+| Rex Metcalfe    | Archaeologist   | Custom lineage human  | Humanoid  | Medium  | True Neutral    |    | Orcus  |
 
 | Class     | Subclass                      | Level | HD  |
 |-----------|-------------------------------|------:|-----|
