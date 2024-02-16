@@ -67,7 +67,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 77 (112 with [^amulet-of-health])       |     16   | 0                   |
+| 77 (112 with [^amulet-of-health])       |     13   | 0                   |
 
 ## Abilities
 
@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       4751 |
+| GP |       1 |       5201 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -194,6 +194,9 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Saddle bags
    - Saddle (ridiing)
  - Vial of poison
+ - White dragon scales
+ - Dragon horde:  [TODO]
+ - 2 diamonds, 
 
 ## Misc
 
