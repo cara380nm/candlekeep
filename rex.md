@@ -60,14 +60,14 @@
 | Field              |              Value |
 |--------------------|-------------------:|
 | Proficiency bonus  |                 +4 |
-| AC                 |                 12 Studded Leather + 2 Dex |
+| AC                 |                 13 Magic studded Leather + 2 Dex |
 | Initiative         |             +2 Dex +5 alert [^alert-feat] |
 | Walking Speed      |    30ft [^lineage] |
 | Passive perception |                    |
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 77 (112 with [^amulet-of-health])       |     13   | 0                   |
+| 77 (112 with [^amulet-of-health])       |      0 | 0                   |
 
 ## Abilities
 
@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       5201 |
+| GP |       1 |       1761 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -128,7 +128,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - 12ft rowboat full of water
  - Clothing:
    - Travellers clothes [^background-archaeologist]
-   - Studded Leather
+   - +1 Studded Leather
    - Pith helmet
    - Nightcap
  - 1 box with poison trap. DC 22.
@@ -195,8 +195,14 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Saddle (ridiing)
  - Vial of poison
  - White dragon scales
- - Dragon horde:  [TODO]
- - 2 diamonds, 
+ - Nolzur’s marvellous pigments
+ - Emerald Pen
+ - Book – memoir of Frederik Smithson
+ - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
+ - Dragon horde (shared):
+   - Horseshoes of a zephyr
+ - 2 diamonds 
+ - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 
 ## Misc
 
@@ -318,4 +324,4 @@ TODO
 [^amulet-of-health]: Amulet of Health
 [^attuned]: Attuned items (3)
 [^ring-of-spell-storing]: Ring of Spell Storing
-
+1
