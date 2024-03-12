@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       1761 |
+| GP |       1 |       1796 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -199,8 +199,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Emerald Pen
  - Book – memoir of Frederik Smithson
  - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
- - Dragon horde (shared):
-   - Horseshoes of a zephyr
  - 2 diamonds 
  - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 
