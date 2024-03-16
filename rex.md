@@ -196,10 +196,15 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - White dragon scales
  - Nolzur’s marvellous pigments
  - Emerald Pen
- - Book – memoir of Frederik Smithson
- - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
  - 2 diamonds 
  - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
+ - Books:
+   - Memoir of Frederik Smithson
+     - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
+   - Lich's spellbook
+   - Instructions for becoming lich
+   - Complete history of Orcus
+ - Glass bottle with poison to become a Lich
 
 ## Misc
 
