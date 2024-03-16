@@ -67,7 +67,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 77 (112 with [^amulet-of-health])       |      0 | 0                   |
+| 77 (112 with [^amulet-of-health])       |      0 | 20                   |
 
 ## Abilities
 
@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       1796 |
+| GP |       1 |       3081 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -125,7 +125,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - In 20ft tall, 20ft radius lamp:
    - Cushions
    - Low tables
-   - 12ft rowboat full of water
+   - 12ft rowboat
  - Clothing:
    - Travellers clothes [^background-archaeologist]
    - +1 Studded Leather
@@ -169,7 +169,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Iron door - can be placed in opening
    - Iron door - can be placed in opening
    - 10 gems worth 100gp each
-   - Pit 10ft^2
    - 4 potions of healing
    - 2x mastiffs
    - 2x mastiffs
