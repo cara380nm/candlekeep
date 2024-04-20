@@ -1,45 +1,45 @@
 # Character
 
-| Name    | Background      | Race                  | Type      | Size    | Alignment       | XP | Deity |
-|---------|-----------------|-----------------------|-----------|---------|-----------------|----|---|
-| Rex Metcalfe    | Archaeologist   | Custom lineage human  | Humanoid  | Medium  | True Neutral    |    | Orcus  |
+| Name         | Background        | Race                    | Type        | Size      | Alignment         | XP   | Deity |
+| ---------    | ----------------- | ----------------------- | ----------- | --------- | ----------------- | ---- | ---   |
+| Rex Metcalfe | Archaeologist     | Custom lineage human    | Humanoid    | Medium    | True Neutral      |      | Orcus |
 
 | Class     | Subclass                      | Level | HD  |
 |-----------|-------------------------------|------:|-----|
 | Warlock   | Genie (djinni) [^genie]       |    12 | 1d8 |
 
 ## Stats
-| Stat  | Value    | Mod        | Save       | Mods    |
-| ----- | -------: | ---------: | -----:     | ----:   |
-| Cha   | 20       | +5         | Proficient | |
-| Int   | 14       | +2         |            | |
-| Dex   | 14       | +2         |            | |
-| Wis   | 12       | +1         | Proficient | |
-| Con   | 12 (19 with [^amulet-of-health])      | +1 (+4 with [^amulet-of-health])        |            | |
-| Str   |  6       | -2         |            | |
+| Stat  | Value                            | Mod                              | Save       | Mods  |
+| ----- | -------:                         | ---------:                       | -----:     | ----: |
+| Cha   | 20                               | +5                               | Proficient |       |
+| Int   | 14                               | +2                               |            |       |
+| Dex   | 14                               | +2                               |            |       |
+| Wis   | 12                               | +1                               | Proficient |       |
+| Con   | 12 (19 with [^amulet-of-health]) | +1 (+4 with [^amulet-of-health]) |            |       |
+| Str   | 6                                | -2                               |            |       |
 
 ## Skills
 
-| Skill           | Stat | Notes                                                                                          |
-|-----------------|------|:-----------------------------------------------------------------------------------------------|
-| Acrobatics      | Dex  |                                                                                                |
-| Animal Handling | Wis  | Double [^skill-expert-feat] Proficient [^lineage]                                              |
-| Arcana          | Int  |                                                                                                |
-| Athletics       | Str  |                                                                                                |
-| Deception       | Cha  |                                                                                                |
-| History         | Int  | Proficient [^warlock]                                                                          |
-| Insight         | Wis  |                                                                                                |
-| Intimidation    | Cha  |                                                                                                |
-| Investigation   | Int  | Proficient [^skill-expert-feat]                                                                |
-| Medicine        | Wis  |                                                                                                |
-| Nature          | Int  | Proficient [^warlock]                                                                          |
-| Perception      | Wis  |                                                                                                |
-| Performance     | Cha  |                                                                                                |
-| Persuasion      | Cha  | Proficient [^background-archaeologist]                                                         |
-| Religion        | Int  |                                                                                                |
-| Slight of Hand  | Dex  |                                                                                                |
-| Stealth         | Dex  |                                                                                                |
-| Survival        | Wis  | Proficient [^background-archaeologist]                                                         |
+| Skill             | Stat   | Notes                                                |
+| ----------------- | ------ | :--------------------------------------------------- |
+| Acrobatics        | Dex    |                                                      |
+| Animal Handling   | Wis    | Double [^skill-expert-feat] Proficient [^lineage]    |
+| Arcana            | Int    |                                                      |
+| Athletics         | Str    |                                                      |
+| Deception         | Cha    |                                                      |
+| History           | Int    | Proficient [^warlock]                                |
+| Insight           | Wis    |                                                      |
+| Intimidation      | Cha    |                                                      |
+| Investigation     | Int    | Proficient [^skill-expert-feat]                      |
+| Medicine          | Wis    |                                                      |
+| Nature            | Int    | Proficient [^warlock]                                |
+| Perception        | Wis    |                                                      |
+| Performance       | Cha    |                                                      |
+| Persuasion        | Cha    | Proficient [^background-archaeologist]               |
+| Religion          | Int    |                                                      |
+| Slight of Hand    | Dex    |                                                      |
+| Stealth           | Dex    |                                                      |
+| Survival          | Wis    | Proficient [^background-archaeologist]               |
 
 ## Other Proficiencies & Languages
 
@@ -57,17 +57,17 @@
 ### Tools
  - Cartographer's tools [^background-archaeologist]
 
-| Field              |              Value |
-|--------------------|-------------------:|
-| Proficiency bonus  |                 +4 |
-| AC                 |                 13 Magic studded Leather + 2 Dex |
-| Initiative         |             +2 Dex +5 alert [^alert-feat] |
-| Walking Speed      |    30ft [^lineage] |
-| Passive perception |                    |
+| Field                | Value                            |
+| -------------------- | -------------------:             |
+| Proficiency bonus    | +4                               |
+| AC                   | 13 Magic studded Leather + 2 Dex |
+| Initiative           | +2 Dex +5 alert [^alert-feat]    |
+| Walking Speed        | 30ft [^lineage]                  |
+| Passive perception   |                                  |
 
-| Hitpoints | Lost HP | Temporary Hitpoints |
-|-----------|---------|---------------------|
-| 77 (112 with [^amulet-of-health])       |      0 | 20                   |
+| Hitpoints                         | Lost HP   | Temporary Hitpoints   |
+| -----------                       | --------- | --------------------- |
+| 77 (112 with [^amulet-of-health]) | 0         | 20                    |
 
 ## Abilities
 
@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |       3081 |
+| GP |       1 |       1781 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -139,7 +139,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Tools:
    - Cartographer's Tools
      - A quill
-     - Ink
+     -~/git/d_n_d/witchlight/chars~/git/d_n_d/witchlight/chars~/git/d_n_d/witchlight/chars~/git/d_n_d/witchlight/chars Ink
      - parchment
      - a pair of compasses
      - calipers
@@ -161,7 +161,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - 10-foot pole
    - Hempen rope
    - Hempen rope
-   - Sack
    - Sack
    - Bag of 100gp
    - Bag of 100gp
@@ -205,6 +204,13 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Instructions for becoming lich
    - Complete history of Orcus
  - Glass bottle with poison to become a Lich
+ - Wooden vial with single dose of sweet sap (potion of healing superior)
+ - Wooden red monk key
+ - Box with 25gp of spices
+ - MATT HAS SCROLLS AND BOOKS
+ - Whip
+ - Sack with snek
+
 
 ## Misc
 
@@ -240,11 +246,11 @@ TODO
 
 ### Warlock [^warlock]
 
-| Feature              | Value          | Mods  |
-|----------------------|----------------|-------|
-| Spellcasting ability | Charisma       | |
-| Spell save DC        | 8+prof+5 cha+2 [^rod-of-pact-keeper] | |
-| Spell attack bonus   | prof+5 cha+2 [^rod-of-pact-keeper] | |
+| Feature                | Value                                | Mods    |
+| ---------------------- | ----------------                     | ------- |
+| Spellcasting ability   | Charisma                             |         |
+| Spell save DC          | 8+prof+5 cha+2 [^rod-of-pact-keeper] |         |
+| Spell attack bonus     | prof+5 cha+2 [^rod-of-pact-keeper]   |         |
 
 ### Known spells
 
@@ -254,15 +260,22 @@ TODO
     - Ritual only: Speak with Animals [^book-of-ancient-secrets]
     - Ritual only: Detect magic [^book-of-ancient-secrets]
     - Ritual only: Detect poison and disease
+    - Ritual only: Comprehend languages
+    - Ritual only: Purify Food and Drink
   - Level 2:
     - Misty step [^fae-touched]
     - Ritual only: Leomund's Tiny Hut
     - Ritual only: Water breathing
     - Ritual only: Locate Animals or Plants
-    - Ritual only: Purify Food and Drink
+    - Ritual only: Skywrite
+    - Ritual only: Animal Messenger
+    - Ritual only: Beast Sense
   - Level 3:
     - Dispel magic [^warlock]
     - Counterspell [^warlock]
+    - Ritual only: Meld into stone
+    - Ritual only: Feign death
+    - Ritual only: Water walk
   - Level 4:
     - Greater Invisibility [^warlock]
     - Phantasmal Killer [^warlock]
@@ -276,6 +289,7 @@ TODO
     - Wall of Light [^warlock]
     - Mislead [^warlock]
     - Ritual only: Commune with nature
+    - Ritual only: Rary's Telepathic Bond
 
 ### Cantrips
   - Eldritch Blast 1d10 (each +cha,10ft push back via invocations) * 3 beams@11th with ranged attack 120ft [^warlock]
@@ -291,7 +305,7 @@ TODO
 #### Ring of Spell Storing [^ring-of-spell-storing]
   - Cure Wounds
   - Cure Wounds
-  - Cure Wounds
+  - 
   - Shield
   - Shield
 
@@ -326,4 +340,4 @@ TODO
 [^amulet-of-health]: Amulet of Health
 [^attuned]: Attuned items (3)
 [^ring-of-spell-storing]: Ring of Spell Storing
-1
+
