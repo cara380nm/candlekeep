@@ -4,9 +4,9 @@
 | ---------    | ----------------- | ----------------------- | ----------- | --------- | ----------------- | ---- | ---   |
 | Rex Metcalfe | Archaeologist     | Custom lineage human    | Humanoid    | Medium    | True Neutral      |      | Orcus |
 
-| Class     | Subclass                      | Level | HD  |
-|-----------|-------------------------------|------:|-----|
-| Warlock   | Genie (djinni) [^genie]       |    12 | 1d8 |
+| Class       | Subclass                        | Level   | HD    |
+| ----------- | ------------------------------- | ------: | ----- |
+| Warlock     | Genie (djinni) [^genie]         | 13      | 1d8   |
 
 ## Stats
 | Stat  | Value                            | Mod                              | Save       | Mods  |
@@ -59,7 +59,7 @@
 
 | Field                | Value                            |
 | -------------------- | -------------------:             |
-| Proficiency bonus    | +4                               |
+| Proficiency bonus    | +5                               |
 | AC                   | 13 Magic studded Leather + 2 Dex |
 | Initiative           | +2 Dex +5 alert [^alert-feat]    |
 | Walking Speed        | 30ft [^lineage]                  |
@@ -67,7 +67,7 @@
 
 | Hitpoints                         | Lost HP   | Temporary Hitpoints   |
 | -----------                       | --------- | --------------------- |
-| 77 (112 with [^amulet-of-health]) | 0         | 20                    |
+| 85 (121 with [^amulet-of-health]) | 0         | 20                    |
 
 ## Abilities
 
@@ -83,11 +83,11 @@ Uses charisma
 ### Eldritch Invocations
   * Agonising blast [^agonising-blast] (add cha to each eldritch blast beam) [^warlock]
   * Repelling Blast [^repelling-blast] (push 10ft with each eldritch beam) [^warlock]
-  * Maddening Hex (bonus act: cha mod psy damage to hexed and all within 5ft) [^warlock]
   * Book of Ancient Secrets [^book-of-ancient-secrets] (ritual from any class) [^warlock]
   * Ghostly Gaze (xray vision 30ft for 1 min  (1/short rest) [^warlock]
   * Whispers of the Grave (unlimited speak with dead without consuming slot) [^warlock]
   * Sculptor of Flesh (cast polymorph 1 per day) [^eldritch-adept-feat]
+  * Devil's Sight You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet. [^warlock]
 
 ### Pact of the Tome
 
@@ -111,45 +111,63 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 
 ## Money
 
-|    | 1 GP is | Coins held |
-|----|--------:|-----------:|
-| PP |    1/10 |            |
-| GP |       1 |       1781 |
-| EP |       2 |            |
-| SP |      10 |            |
-| CP |     100 |            |
+|      | 1 GP is   | Coins held   |
+| ---- | --------: | -----------: |
+| PP   | 1/10      |              |
+| GP   | 1         | 1074         |
+| EP   | 2         |              |
+| SP   | 10        |              |
+| CP   | 100       |              |
+
+## Inside lamp
+
+20ft tall 20ft radius, containing:
+
+ - Flopping cushions
+ - Ceiling mounted lantern
+ - Low tables
+   - 1 box with poison trap. DC 22.
+     - White dragon scales
+   - A wooden case containing a map to a ruin or dungeon [^background-archaeologist]
+   - A small stone statue of a former goddess. Trinket recovered from a dig site [^background-archaeologist]
+   - Emerald Pen
+ - Clockwork roomba 
+   - Mr fluffy (atop roomba). Pseudodragon stuffed toy. Squeeze to make pseudodragon noises
+ - Statue of a cat that purrs when you pet it
 
 ## Equipment
- - Greater invisibility potion
- - Alchemy jug blue
- - In 20ft tall, 20ft radius lamp:
-   - Cushions
-   - Low tables
-   - 12ft rowboat
  - Clothing:
    - Travellers clothes [^background-archaeologist]
    - +1 Studded Leather
    - Pith helmet
-   - Nightcap
- - 1 box with poison trap. DC 22.
  - Weapons:
-   - Sickle 1d4 [^warlock]
    - 1 dagger finesse 20/60 1d4 [^warlock]
-   - Handaxe 1d6 20/60 [^warlock]
- - Tools:
-   - Cartographer's Tools
-     - A quill
-     -~/git/d_n_d/witchlight/chars~/git/d_n_d/witchlight/chars~/git/d_n_d/witchlight/chars~/git/d_n_d/witchlight/chars Ink
-     - parchment
-     - a pair of compasses
-     - calipers
-     - ruler
  - Component pouch [^warlock]
  - [^attuned] Rod of the Pact Keeper +2 spell attack & DC. Regain 1 slot per long rest [^rod-of-pact-keeper]
  - [^attuned] Amulet of Health (Con is 19) [^amulet-of-health]
  - [^attuned] Ring of Spell Storing (hold 5 levels worth of spells) [^ring-of-spell-storing]
  - Bag of Holding
-   - 2 Volcano wine
+   - 1 Volcano wine
+   - a Crowbar
+   - a Hammer
+   - 10 pitons
+   - 10 torches
+   - a Tinderbox
+   - 10 days of Rations
+   - a Waterskin
+   - 50 feet of Hempen rope
+   - Cartographer's Tools
+     - A quill
+     - Ink
+     - parchment
+     - a pair of compasses
+     - calipers
+     - ruler
+   - a bullseye lantern [^background-archaeologist]
+   - a miner's pick [^background-archaeologist]
+   - a shovel [^background-archaeologist]
+   - a two-person tent [^background-archaeologist]
+   - Alchemy jug blue
  - Robe of Useful Items. Patches:
    - Dagger
    - Dagger
@@ -163,8 +181,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Hempen rope
    - Sack
    - Bag of 100gp
-   - Bag of 100gp
-   - Bag of 100gp
    - Iron door - can be placed in opening
    - Iron door - can be placed in opening
    - 10 gems worth 100gp each
@@ -172,31 +188,16 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - 2x mastiffs
    - 2x mastiffs
    - Window 2x4ft. Max 2ft deep. Place on vertical surface
- - Dungeoneer's Pack [^warlock]
-   - a Backpack
-   - a Crowbar
-   - a Hammer
-   - 10 pitons
-   - 10 torches
-   - a Tinderbox
-   - 10 days of Rations
-   - a Waterskin
-   - 50 feet of Hempen rope
- - A wooden case containing a map to a ruin or dungeon [^background-archaeologist]
- - a bullseye lantern [^background-archaeologist]
- - a miner's pick [^background-archaeologist]
- - a shovel [^background-archaeologist]
- - a two-person tent [^background-archaeologist]
- - A small stone statue of a former goddess. Trinket recovered from a dig site [^background-archaeologist]
- - Mule - muriel
-   - Saddle bags
-   - Saddle (ridiing)
- - Vial of poison
- - White dragon scales
- - Nolzur’s marvellous pigments
- - Emerald Pen
- - 2 diamonds 
- - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
+ - A Backpack
+   - Greater invisibility potion
+   - Vial of poison
+   - Nightcap (magic - gives the wearer pleasant dreams)
+   - Firework: Sparkler
+   - Firework: Highly explosive firework
+   - Firework: Rocket
+   - Nolzur’s marvellous pigments
+   - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
+   - Stegasaurus figure wooden painted.
  - Books:
    - Memoir of Frederik Smithson
      - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
@@ -205,12 +206,29 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Complete history of Orcus
  - Glass bottle with poison to become a Lich
  - Wooden vial with single dose of sweet sap (potion of healing superior)
- - Wooden red monk key
  - Box with 25gp of spices
- - MATT HAS SCROLLS AND BOOKS
  - Whip
- - Sack with snek
+ - Sack
+ - Magic playing card
+ - Spoon
+ - Quill writes down what you dictate to it
+ - Tart wand 1d6 random tarts
+ - Jester's hat
+ - "I dunked the jester badge"
+ - Dancing light potion
+ - Vuvuzela 
+ - Automatic fan
+ - Bag of cuteness
+ - Jar containing baby gelatinous cube. Will nom stuff
+ - Token of fae. 1 a day change eldritch blast to electricity
+ - Floppy wizard hat that keeps the wearer dry in rain
+ - Hawthorne wand that turns small objects ethereal for 1 hour
+ - Collar allows cat/dog to speak common
+ - Wand of ale. 1d6 mugs of ale a day
 
+## Mule - muriel
+ - Saddle bags
+ - Saddle (riding)
 
 ## Misc
 
@@ -233,14 +251,14 @@ TODO
 
 ### Character appearance
 
-| Feature | Description  |
-|---------|--------------|
-| Age     | 45           |
-| Height  | 5'10"        |
-| Weight  | 80kg         |
-| Eyes    | Gray         |
-| Skin    | White        |
-| Hair    | Graying      |
+| Feature   | Description    |
+| --------- | -------------- |
+| Age       | 45             |
+| Height    | 5'10"          |
+| Weight    | 80kg           |
+| Eyes      | Gray           |
+| Skin      | White          |
+| Hair      | Graying        |
 
 ## Spells
 
@@ -256,14 +274,21 @@ TODO
 
   - Level 1:
     - Hex [^fae-touched]
-    - Ritual only: Identify [^book-of-ancient-secrets]
-    - Ritual only: Speak with Animals [^book-of-ancient-secrets]
+    - Ritual only: Alarm
+    - Ritual only: Ceremony
+    - Ritual only: Comprehend languages
     - Ritual only: Detect magic [^book-of-ancient-secrets]
     - Ritual only: Detect poison and disease
-    - Ritual only: Comprehend languages
+    - Ritual only: Find familiar
+    - Ritual only: Identify [^book-of-ancient-secrets]
+    - Ritual only: Illusory script
     - Ritual only: Purify Food and Drink
+    - Ritual only: Speak with Animals [^book-of-ancient-secrets]
+    - Ritual only: Tensers floating disk
+    - Ritual only: Unseen servant
   - Level 2:
     - Misty step [^fae-touched]
+    - Darkness [^warlock]
     - Ritual only: Leomund's Tiny Hut
     - Ritual only: Water breathing
     - Ritual only: Locate Animals or Plants
@@ -280,9 +305,9 @@ TODO
     - Greater Invisibility [^warlock]
     - Phantasmal Killer [^warlock]
     - Banishment [^warlock]
-    - Shadow of Moil (obscurement confers attack advantage and enemy disadvantage) [^warlock]
     - Ritual only: Divination
   - Level 5:
+    - Dream [^warlock]
     - Seeming [^warlock]
     - Creation [^warlock]
     - Contact Other Plane [^warlock]
@@ -305,7 +330,7 @@ TODO
 #### Ring of Spell Storing [^ring-of-spell-storing]
   - Cure Wounds
   - Cure Wounds
-  - 
+  - TODO
   - Shield
   - Shield
 
@@ -320,6 +345,9 @@ TODO
 
 #### Level 6
   - :o: Mass suggestion. One use per long rest [^mystic-arcanum]
+
+#### Level 7
+  - :o: Finger of Death. One use per long rest [^mystic-arcanum]
 
 ## Notes
 
