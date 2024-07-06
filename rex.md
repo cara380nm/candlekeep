@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      |              |
-| GP   | 1         | 1074         |
+| GP   | 1         | 3329         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -131,6 +131,10 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - A wooden case containing a map to a ruin or dungeon [^background-archaeologist]
    - A small stone statue of a former goddess. Trinket recovered from a dig site [^background-archaeologist]
    - Emerald Pen
+   - Glass bottle with poison to become a Lich
+   - Box with 25gp of spices
+   - Spoon that seasons food
+   - Collar allows cat/dog to speak common
  - Clockwork roomba 
    - Mr fluffy (atop roomba). Pseudodragon stuffed toy. Squeeze to make pseudodragon noises
  - Statue of a cat that purrs when you pet it
@@ -164,7 +168,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
      - calipers
      - ruler
    - a bullseye lantern [^background-archaeologist]
-   - a miner's pick [^background-archaeologist]
    - a shovel [^background-archaeologist]
    - a two-person tent [^background-archaeologist]
    - Alchemy jug blue
@@ -192,39 +195,44 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Greater invisibility potion
    - Vial of poison
    - Nightcap (magic - gives the wearer pleasant dreams)
-   - Firework: Sparkler
    - Firework: Highly explosive firework
    - Firework: Rocket
    - Nolzur’s marvellous pigments
    - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
    - Stegasaurus figure wooden painted.
+   - Wooden vial with single dose of sweet sap (potion of healing superior)
+   - Sack
+   - Hawthorne wand that turns small objects ethereal for 1 hour
+   - Tart wand 1d6 random tarts
+   - Wand of ale. 1d6 mugs of ale a day
+   - Dancing light potion
+   - Jar containing baby gelatinous cube. Will nom stuff
  - Books:
    - Memoir of Frederik Smithson
      - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
    - Lich's spellbook
    - Instructions for becoming lich
    - Complete history of Orcus
- - Glass bottle with poison to become a Lich
- - Wooden vial with single dose of sweet sap (potion of healing superior)
- - Box with 25gp of spices
  - Whip
- - Sack
- - Magic playing card
- - Spoon
  - Quill writes down what you dictate to it
- - Tart wand 1d6 random tarts
+ - Floppy wizard hat that keeps the wearer dry in rain
  - Jester's hat
  - "I dunked the jester badge"
- - Dancing light potion
  - Vuvuzela 
- - Automatic fan
- - Bag of cuteness
- - Jar containing baby gelatinous cube. Will nom stuff
+ - Automatic fan - hangs in air and fans you
+ - Bag of cuteness - 1 time a day, reach in and receive random cute animal
  - Token of fae. 1 a day change eldritch blast to electricity
- - Floppy wizard hat that keeps the wearer dry in rain
- - Hawthorne wand that turns small objects ethereal for 1 hour
- - Collar allows cat/dog to speak common
- - Wand of ale. 1d6 mugs of ale a day
+ - Oversized butterfly net
+ - rope of serpants
+ - random benign puzzle box
+ - green dragon plush
+ - 2xhats that keep you dry
+ - token of fae
+ - glass fishbowl
+ - music box records 1 min music
+ - angry bag of holding
+ - boots change to match outfit
+ - playing card that changes when you tap it
 
 ## Mule - muriel
  - Saddle bags
@@ -330,7 +338,7 @@ TODO
 #### Ring of Spell Storing [^ring-of-spell-storing]
   - Cure Wounds
   - Cure Wounds
-  - TODO
+  - Absorb elements
   - Shield
   - Shield
 
