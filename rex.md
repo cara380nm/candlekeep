@@ -67,7 +67,7 @@
 
 | Hitpoints                         | Lost HP   | Temporary Hitpoints   |
 | -----------                       | --------- | --------------------- |
-| 85 (121 with [^amulet-of-health]) | 0         | 20                    |
+| 85 (121 with [^amulet-of-health]) | 0         | 0                     |
 
 ## Abilities
 
@@ -114,7 +114,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      |              |
-| GP   | 1         | 3329         |
+| GP   | 1         | 3504         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -138,6 +138,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Clockwork roomba 
    - Mr fluffy (atop roomba). Pseudodragon stuffed toy. Squeeze to make pseudodragon noises
  - Statue of a cat that purrs when you pet it
+ - Glass fishbowl - put water in and a fish illusion appears
 
 ## Equipment
  - Clothing:
@@ -223,16 +224,10 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Bag of cuteness - 1 time a day, reach in and receive random cute animal
  - Token of fae. 1 a day change eldritch blast to electricity
  - Oversized butterfly net
- - rope of serpants
- - random benign puzzle box
+ - Random benign puzzle box
  - green dragon plush
  - 2xhats that keep you dry
- - token of fae
- - glass fishbowl
- - music box records 1 min music
- - angry bag of holding
- - boots change to match outfit
- - playing card that changes when you tap it
+ - Dragon themed tarot cards
 
 ## Mule - muriel
  - Saddle bags
@@ -251,6 +246,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 
 ### Flaws
  * Absent minded. My research is the only topic worthy of sustained thought
+ * I obsess about my past and am constantly trying to go back to undo my mistakes
 
 ### Backstory
 TODO
