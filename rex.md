@@ -6,7 +6,7 @@
 
 | Class       | Subclass                        | Level   | HD    |
 | ----------- | ------------------------------- | ------: | ----- |
-| Warlock     | Genie (djinni) [^genie]         | 13      | 1d8   |
+| Warlock     | Genie (djinni) [^genie]         | 14      | 1d8   |
 
 ## Stats
 | Stat  | Value                            | Mod                              | Save       | Mods  |
@@ -67,7 +67,7 @@
 
 | Hitpoints                         | Lost HP   | Temporary Hitpoints   |
 | -----------                       | --------- | --------------------- |
-| 85 (121 with [^amulet-of-health]) | 0         | 0                     |
+| 91 (130 with [^amulet-of-health]) | 0         | 0                     |
 
 ## Abilities
 
@@ -101,6 +101,9 @@ Uses charisma
   * Can take 5 creatures in
   * Occupants gain short rest benefit after 10 mins inside. Add prof bonus to HP regained if HD spent
 
+### Limited Wish
+As an action, request 6th or lower level spell (any class list) with casting time of 1 action. No components required. Wait 1d4 long rests to use again
+
 ### Historical Knowledge
 Entering a ruin or dungeon can ascertain original purpose, builder race. Can determine monetary value of old art objects
 
@@ -114,7 +117,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      |              |
-| GP   | 1         | 3504         |
+| GP   | 1         | 4059         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -139,6 +142,8 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Mr fluffy (atop roomba). Pseudodragon stuffed toy. Squeeze to make pseudodragon noises
  - Statue of a cat that purrs when you pet it
  - Glass fishbowl - put water in and a fish illusion appears
+ - Folding screen with a magic self-cleaning toilet
+ - Magic cupboard. If the cabinet door is closed, a bell rings. When the door is reopened, the previous contents are gone and the cabinet's shelves are filled with foodstuffs—fresh bread, dried meat, flasks of clear water, fruit, sweet cakes, and more. Once used, this property of the cabinet cannot be used again for 24 hours.
 
 ## Equipment
  - Clothing:
@@ -212,7 +217,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Memoir of Frederik Smithson
      - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
    - Lich's spellbook
-   - Instructions for becoming lich
+   - Instructions for becoming lich - You need to spend 7 days creating your phylactory and need 7000gp (1000gp a day) uninterrupted. You need the spells or rituals magic jar, dimension door and imprisonment. You need to feed 3 souls to it, over the 7 day period. Once the phylactory is created,  drink the potion the lich gave you to die and come back as a lich.
    - Complete history of Orcus
  - Whip
  - Quill writes down what you dictate to it
@@ -228,6 +233,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - green dragon plush
  - 2xhats that keep you dry
  - Dragon themed tarot cards
+ - Scroll describing the rite of reclaimation
 
 ## Mule - muriel
  - Saddle bags
