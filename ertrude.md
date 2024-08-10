@@ -6,40 +6,40 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |    11 | 1d8 |
+| Artificer | Artillerist |    14 | 1d8 |
 
 ## Stats
-| Stat  | Value    | Mod        | Save       | Mods    |
-| ----- | -------: | ---------: | -----:     | ----:   |
-| Int   | 22       | +6         | Proficient | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
-| Con   | 15       | +2         | Proficient | |
-| Wis   | 13       | +1         |            | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
-| Cha   | 12       | +1         |            | Advantage to all int/wis/cha saves vs magic [^rock-gnome]   |
-| Str   | 9        | -1         |            | |
-| Dex   | 8        | -1         |            | |
+| Stat  | Value    | Mod        | Save       | Mods                             |
+| ----- | -------: | ---------: | -----:     | ----:                            |
+| Int   | 22       | +6         | Proficient | Advantage vs magic [^rock-gnome] |
+| Con   | 16       | +3         | Proficient |                                  |
+| Wis   | 14       | +2         |            | Advantage vs magic [^rock-gnome] |
+| Cha   | 12       | +1         |            | Advantage vs magic [^rock-gnome] |
+| Str   | 9        | -1         |            |                                  |
+| Dex   | 8        | -1         |            |                                  |
 
 ## Skills
 
-| Skill           | Stat | Notes                                                                                          |
-|-----------------|------|:-----------------------------------------------------------------------------------------------|
-| Acrobatics      | Dex  |                                                                                                |
-| Animal Handling | Wis  |                                                                                                |
-| Arcana          | Int  | Proficient [^artificer]                                                                        |
-| Athletics       | Str  |                                                                                                |
-| Deception       | Cha  |                                                                                                |
-| History         | Int  | Artificer’s Lore: 2xProficient if magic items, alchemical Objects, technological [^rock-gnome] |
-| Insight         | Wis  | Proficient [^guild-artisan]                                                                    |
-| Intimidation    | Cha  |                                                                                                |
-| Investigation   | Int  | Proficient [^artificer]                                                                        |
-| Medicine        | Wis  |                                                                                                |
-| Nature          | Int  |                                                                                                |
-| Perception      | Wis  |                                                                                                |
-| Performance     | Cha  |                                                                                                |
-| Persuasion      | Cha  | Proficient [^guild-artisan]                                                                    |
-| Religion        | Int  |                                                                                                |
-| Slight of Hand  | Dex  |                                                                                                |
-| Stealth         | Dex  |                                                                                                |
-| Survival        | Wis  |                                                                                                |
+| Skill             | Stat   | Notes                                            |
+| ----------------- | ------ | :--------------------------------------------    |
+| Acrobatics        | Dex    |                                                  |
+| Animal Handling   | Wis    |                                                  |
+| Arcana            | Int    | Proficient [^artificer]                          |
+| Athletics         | Str    |                                                  |
+| Deception         | Cha    |                                                  |
+| History           | Int    | 2xProficient magic/tech/alchemical [^rock-gnome] |
+| Insight           | Wis    | Proficient [^guild-artisan]                      |
+| Intimidation      | Cha    |                                                  |
+| Investigation     | Int    | Proficient [^artificer]                          |
+| Medicine          | Wis    |                                                  |
+| Nature            | Int    |                                                  |
+| Perception        | Wis    |                                                  |
+| Performance       | Cha    |                                                  |
+| Persuasion        | Cha    | Proficient [^guild-artisan]                      |
+| Religion          | Int    |                                                  |
+| Slight of Hand    | Dex    |                                                  |
+| Stealth           | Dex    |                                                  |
+| Survival          | Wis    |                                                  |
 
 ## Other Proficiencies & Languages
 
@@ -62,17 +62,17 @@
  - Wood carving tools [^artillerist]
  - Tinker's tools [^rock-gnome]
 
-| Field              |              Value |
-|--------------------|-------------------:|
-| Proficiency bonus  |                 +4 |
-| AC                 |                 14 half plate - 1 Dex |
-| Initiative         |             -1 Dex |
-| Walking Speed      | 25ft [^rock-gnome] |
-| Passive perception |                    |
+| Field                | Value                           |
+| -------------------- | -------------------:            |
+| Proficiency bonus    | +5                              |
+| AC                   | 14 half plate +2 shield - 1 Dex |
+| Initiative           | -1 Dex                          |
+| Walking Speed        | 25ft [^rock-gnome]              |
+| Passive perception   |                                 |
 
-| Hitpoints | Lost HP | Temporary Hitpoints |
-|-----------|---------|---------------------|
-| 91        |     6   | 0                   |
+| Hitpoints   | Lost HP   | Temporary Hitpoints   |
+| ----------- | --------- | --------------------- |
+| 126         | 0         | 0                     |
 
 ## Abilities
 
@@ -100,10 +100,12 @@ After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artif
  * :o: Homunculus
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
  * :o: Lantern of revealing
+ * :o: Boots of Elvenkind
  * Winged Boots (attune)
  * Helm of awareness (attune) Advantage on initiative. Can't be surprised
  * Cloak of protection (attune) +1 AC & saves
  * Enhanced Defense (+2 AC). Armour or shield
+ * Resistant Armour
 
 ### Artificer Specialist
 Artillerist [^artificer]
@@ -130,28 +132,33 @@ Turn wand/staff/rod into focus. When casting add d8 to one of the spells damage 
 You can attune to up to four magic items at once.
 If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold
 
+### Magic Item Savant
+You can attune to up to five magic items at once.
+You ignore all class, race, spell and level requirements on attuning to or using a magic item.
+
 ### Spell Storing Item
 After long rest can imbue a simple/martial weapon/artificer-spellcasting-focus with a 1st/2nd level artificer spell taking 1 action (needn't be prepared)
 Creature holding object can use action to produce the spell effect using my spellcasting ability. Creature must concentrated if spell requires. Castable int x2 times or until feature used again.
 
 ## Money
 
-|    | 1 GP is | Coins held |
-|----|--------:|-----------:|
-| PP |    1/10 |       1301 |
-| GP |       1 |       2684 |
-| EP |       2 |            |
-| SP |      10 |            |
-| CP |     100 |            |
+|      | 1 GP is   | Coins held   |
+| ---- | --------: | -----------: |
+| PP   | 1/10      | 1301         |
+| GP   | 1         | 2684         |
+| EP   | 2         |              |
+| SP   | 10        |              |
+| CP   | 100       |              |
 
 ## Equipment
 
  - Clothing:
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
-   - Isosceles triangle shield
+   - Isosceles triangle shield +2 AC
    - Hooded robe small (black, lining green gold silk)
    - Cloak of elvenkind (attune)
+   - Boots
  - Weapons:
    - 3x Dagger 1d4 [^artificer]
    - 1/4 staff 1d8 [^artificer]
@@ -240,11 +247,11 @@ From town with platinum mine. My people weren't around.
 
 ### Artificer [^artificer]
 
-| Feature              | Value          | Mods  |
-|----------------------|----------------|-------|
-| Spellcasting ability | Int            | |
-| Spell save DC        | 8+prof+int mod | +1 Swiss army spork |
-| Spell attack bonus   | prof+int mod   | +1 Swiss army spork, +2 from enhanced arcane focus |
+| Feature                | Value            | Mods                                          |
+| ---------------------- | ---------------- | -------                                       |
+| Spellcasting ability   | Int              |                                               |
+| Spell save DC          | 8+prof+int mod   | +1 Swiss army spork                           |
+| Spell attack bonus     | prof+int mod     | +1 Swiss army spork, +2 enhanced arcane focus |
 
 ### Prepared spells
 Int + 1/2 artificer level spells:
@@ -268,15 +275,20 @@ Int + 1/2 artificer level spells:
     - Blink
     - Dispell
     - Revivify
+  - Level 4:
+    - Fabricate
+    - Ice Storm (bonus artillerist [^artillerist] always prepared)
+    - Wall of Fire (bonus artillerist [^artillerist] always prepared)
+    - Summon Construct
 
 ### Cantrips
   - Mending [^artificer]
   - Guidance [^artificer] d4 to skill check
   - Toll the dead [^magic-initiate] 3d8/3d12 wis save
-  - Sword burst [^magic-initiate] 3d6 to all dex save
+  - Minor Illusion [^magic-initiate]
   - Firebolt [^artificer] 3d10 120ft
-
-+1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
+  - Sword burst [^artificer] 3d6 to all dex save
+  - +1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
 
 ### Slots
 
@@ -294,6 +306,9 @@ Int + 1/2 artificer level spells:
 #### Level 3
 
   - :o: :o: :o: Regular spells (Spell refueling ring can recover one)
+
+#### Level 4
+  - :o: Regular spells
 
 ## Notes
 
