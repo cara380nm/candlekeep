@@ -63,7 +63,7 @@
 | AC                   | 13 Magic studded Leather + 2 Dex |
 | Initiative           | +2 Dex +5 alert [^alert-feat]    |
 | Walking Speed        | 30ft [^lineage]                  |
-| Passive perception   |                                  |
+| Passive perception   | 10+1 Wis                         |
 
 | Hitpoints                         | Lost HP   | Temporary Hitpoints   |
 | -----------                       | --------- | --------------------- |
@@ -117,10 +117,12 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      |              |
-| GP   | 1         | 4059         |
+| GP   | 1         | 5077         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
+
+ - Minion cost. Dusty, rex obsessed wizard apprentice 1 GP/day
 
 ## Inside lamp
 
@@ -144,6 +146,19 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Glass fishbowl - put water in and a fish illusion appears
  - Folding screen with a magic self-cleaning toilet
  - Magic cupboard. If the cabinet door is closed, a bell rings. When the door is reopened, the previous contents are gone and the cabinet's shelves are filled with foodstuffs—fresh bread, dried meat, flasks of clear water, fruit, sweet cakes, and more. Once used, this property of the cabinet cannot be used again for 24 hours.
+ - Scroll describing the rite of reclaimation
+ - green dragon plush
+ - Random benign puzzle box
+ - Jester's hat
+ - "I dunked the jester badge"
+ - Vuvuzela 
+ - Books:
+   - Memoir of Frederik Smithson
+     - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
+   - Lich's spellbook
+   - Instructions for becoming lich - You need to spend 7 days creating your phylactory and need 7000gp (1000gp a day) uninterrupted. You need the spells or rituals magic jar, dimension door and imprisonment. You need to feed 3 souls to it, over the 7 day period. Once the phylactory is created,  drink the potion the lich gave you to die and come back as a lich.
+   - Complete history of Orcus
+ - Silver service set (worth 80gp)
 
 ## Equipment
  - Clothing:
@@ -165,7 +180,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - a Tinderbox
    - 10 days of Rations
    - a Waterskin
-   - 50 feet of Hempen rope
+   - 50 feet of royal caterpillar silk rope
    - Cartographer's Tools
      - A quill
      - Ink
@@ -205,7 +220,6 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Firework: Rocket
    - Nolzur’s marvellous pigments
    - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
-   - Stegasaurus figure wooden painted.
    - Wooden vial with single dose of sweet sap (potion of healing superior)
    - Sack
    - Hawthorne wand that turns small objects ethereal for 1 hour
@@ -213,27 +227,17 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    - Wand of ale. 1d6 mugs of ale a day
    - Dancing light potion
    - Jar containing baby gelatinous cube. Will nom stuff
- - Books:
-   - Memoir of Frederik Smithson
-     - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
-   - Lich's spellbook
-   - Instructions for becoming lich - You need to spend 7 days creating your phylactory and need 7000gp (1000gp a day) uninterrupted. You need the spells or rituals magic jar, dimension door and imprisonment. You need to feed 3 souls to it, over the 7 day period. Once the phylactory is created,  drink the potion the lich gave you to die and come back as a lich.
-   - Complete history of Orcus
  - Whip
  - Quill writes down what you dictate to it
  - Floppy wizard hat that keeps the wearer dry in rain
- - Jester's hat
- - "I dunked the jester badge"
- - Vuvuzela 
  - Automatic fan - hangs in air and fans you
  - Bag of cuteness - 1 time a day, reach in and receive random cute animal
  - Token of fae. 1 a day change eldritch blast to electricity
  - Oversized butterfly net
- - Random benign puzzle box
- - green dragon plush
- - 2xhats that keep you dry
  - Dragon themed tarot cards
- - Scroll describing the rite of reclaimation
+ - 7xscroll remove curse
+ - 100gp gems
+ - Potion of greater healing
 
 ## Mule - muriel
  - Saddle bags
@@ -339,10 +343,10 @@ TODO
 
 #### Ring of Spell Storing [^ring-of-spell-storing]
   - Cure Wounds
-  - Cure Wounds
   - Absorb elements
-  - Shield
-  - Shield
+  - Shield 
+  - Shield 
+  - Shield 
 
 #### Level 1
   - :o: 1/day Hex [^fae-touched]
