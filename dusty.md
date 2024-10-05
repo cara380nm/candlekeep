@@ -15,15 +15,17 @@
  * WIS: 10 (+0)
  * CHA: 11 (+0)
 
+## Skills etc
+
  * Skills Arcana +4, History +4
  * Senses passive Perception 10
  * Languages Common
  * Challenge 1/4 (50 XP)
  * Proficiency Bonus +2
 
-## Spellcasting:
+## Spellcasting
 
-#The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
+The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
 
 ### Cantrips (at will)
  * mage hand
