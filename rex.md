@@ -117,7 +117,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      |              |
-| GP   | 1         | 5077         |
+| GP   | 1         | 4975         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -307,6 +307,7 @@ TODO
     - Ritual only: Water breathing
     - Ritual only: Locate Animals or Plants
     - Ritual only: Skywrite
+    - Ritual only: Silence
     - Ritual only: Animal Messenger
     - Ritual only: Beast Sense
   - Level 3:
