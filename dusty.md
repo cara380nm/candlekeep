@@ -42,4 +42,5 @@ The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intellige
  * Dagger. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (ld4) piercing damage.
 
 ## Inventory
- *  - Stegasaurus figure wooden painted.
+ * Stegasaurus figure wooden painted.
+ * Holy water
