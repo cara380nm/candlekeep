@@ -44,3 +44,5 @@ The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intellige
 ## Inventory
  * Stegasaurus figure wooden painted.
  * Holy water
+ * Headband of Intellect 17 Int
+ * Boots of Striding (30ft speed, never reduced, etc, bonus to jump)

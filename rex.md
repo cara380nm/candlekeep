@@ -117,7 +117,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      |              |
-| GP   | 1         | 4949         |
+| GP   | 1         | 4928         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -238,6 +238,11 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - 7xscroll remove curse
  - 100gp gems
  - Potion of greater healing
+ - Party loot
+   - 3 golden fists
+   - Diamonds in shape of dogs head
+   - Scrying ball
+   - Gold/ruby ring worth 100
 
 ## Mule - muriel
  - Saddle bags
@@ -308,7 +313,7 @@ TODO
     - Ritual only: Locate Animals or Plants
     - Ritual only: Skywrite
     - Ritual only: Silence
-    - Ritual only: Animal Messenger
+    -disabled Ritual only: Animal Messenger
     - Ritual only: Beast Sense
   - Level 3:
     - Dispel magic [^warlock]
