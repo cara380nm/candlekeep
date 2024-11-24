@@ -313,7 +313,7 @@ TODO
     - Ritual only: Locate Animals or Plants
     - Ritual only: Skywrite
     - Ritual only: Silence
-    -disabled Ritual only: Animal Messenger
+    - Ritual only: Animal Messenger
     - Ritual only: Beast Sense
   - Level 3:
     - Dispel magic [^warlock]
