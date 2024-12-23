@@ -67,7 +67,7 @@
 
 | Hitpoints                         | Lost HP   | Temporary Hitpoints   |
 | -----------                       | --------- | --------------------- |
-| 91 (130 with [^amulet-of-health]) | 0         | 0                     |
+| 91 (130 with [^amulet-of-health]) | 0         | 5                     |
 
 ## Abilities
 
@@ -82,7 +82,7 @@ Uses charisma
 
 ### Eldritch Invocations
   * Agonising blast [^agonising-blast] (add cha to each eldritch blast beam) [^warlock]
-  * Repelling Blast [^repelling-blast] (push 10ft with each eldritch beam) [^warlock]
+  * Repelling blast [^repelling-blast] (push 10ft with each eldritch beam) [^warlock]
   * Book of Ancient Secrets [^book-of-ancient-secrets] (ritual from any class) [^warlock]
   * Ghostly Gaze (xray vision 30ft for 1 min  (1/short rest) [^warlock]
   * Whispers of the Grave (unlimited speak with dead without consuming slot) [^warlock]
@@ -116,11 +116,11 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      |              |
-| GP   | 1         | 4928         |
-| EP   | 2         |              |
-| SP   | 10        |              |
-| CP   | 100       |              |
+| PP   | 1/10      | 0            |
+| GP   | 1         | 6275         |
+| EP   | 2         | 0            |
+| SP   | 10        | 0            |
+| CP   | 100       | 1            |
 
  - Minion cost. Dusty, rex obsessed wizard apprentice 1 GP/day
 
