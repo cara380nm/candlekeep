@@ -6,7 +6,7 @@
 
 | Class       | Subclass                        | Level   | HD    |
 | ----------- | ------------------------------- | ------: | ----- |
-| Warlock     | Genie (djinni) [^genie]         | 14      | 1d8   |
+| Warlock     | Genie (djinni) [^genie]         | 15      | 1d8   |
 
 ## Stats
 | Stat  | Value                            | Mod                              | Save       | Mods  |
@@ -67,7 +67,7 @@
 
 | Hitpoints                         | Lost HP   | Temporary Hitpoints   |
 | -----------                       | --------- | --------------------- |
-| 91 (130 with [^amulet-of-health]) | 0         | 5                     |
+| 97 (139 with [^amulet-of-health]) | 0         | 5                     |
 
 ## Abilities
 
@@ -88,6 +88,7 @@ Uses charisma
   * Whispers of the Grave (unlimited speak with dead without consuming slot) [^warlock]
   * Sculptor of Flesh (cast polymorph 1 per day) [^eldritch-adept-feat]
   * Devil's Sight You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet. [^warlock]
+  * Shroud of Shadow. Cast invisibility at will without expending spell slot [^warlock]
 
 ### Pact of the Tome
 
@@ -117,9 +118,9 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 0            |
-| GP   | 1         | 6275         |
+| GP   | 1         | 4087         |
 | EP   | 2         | 0            |
-| SP   | 10        | 0            |
+| SP   | 10        | 5            |
 | CP   | 100       | 1            |
 
  - Minion cost. Dusty, rex obsessed wizard apprentice 1 GP/day
@@ -236,13 +237,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Oversized butterfly net
  - Dragon themed tarot cards
  - 7xscroll remove curse
- - 100gp gems
  - Potion of greater healing
- - Party loot
-   - 3 golden fists
-   - Diamonds in shape of dogs head
-   - Scrying ball
-   - Gold/ruby ring worth 100
 
 ## Mule - muriel
  - Saddle bags
@@ -292,13 +287,14 @@ TODO
 ### Known spells
 
   - Level 1:
-    - Hex [^fae-touched]
+    - Armor of Agathys
     - Ritual only: Alarm
     - Ritual only: Ceremony
     - Ritual only: Comprehend languages
     - Ritual only: Detect magic [^book-of-ancient-secrets]
     - Ritual only: Detect poison and disease
     - Ritual only: Find familiar
+    - Hex [^fae-touched]
     - Ritual only: Identify [^book-of-ancient-secrets]
     - Ritual only: Illusory script
     - Ritual only: Purify Food and Drink
@@ -306,35 +302,45 @@ TODO
     - Ritual only: Tensers floating disk
     - Ritual only: Unseen servant
   - Level 2:
-    - Misty step [^fae-touched]
-    - Darkness [^warlock]
-    - Ritual only: Leomund's Tiny Hut
-    - Ritual only: Water breathing
-    - Ritual only: Locate Animals or Plants
-    - Ritual only: Skywrite
-    - Ritual only: Silence
     - Ritual only: Animal Messenger
+    - Ritual only: Augury
     - Ritual only: Beast Sense
+    - Darkness [^warlock]
+    - Ritual only: Gentle Repose
+    - Ritual only: Locate Animals or Plants
+    - Ritual only: Magic Mouth
+    - Misty step [^fae-touched]
+    - Ritual only: Silence
+    - Ritual only: Skywrite
+    - Ritual only: Wrist Pocket
   - Level 3:
-    - Dispel magic [^warlock]
     - Counterspell [^warlock]
-    - Ritual only: Meld into stone
+    - Dispel magic [^warlock]
     - Ritual only: Feign death
-    - Ritual only: Water walk
+    - Ritual only: Leomund's Tiny Hut
+    - Ritual only: Meld into stone
+    - Ritual only: Phantom Steed
+    - Ritual only: Water Breathing
+    - Ritual only: Water Walk
   - Level 4:
-    - Greater Invisibility [^warlock]
-    - Phantasmal Killer [^warlock]
     - Banishment [^warlock]
     - Ritual only: Divination
+    - Greater Invisibility [^warlock]
+    - Phantasmal Killer [^warlock]
+    - Shadow of Moil
   - Level 5:
-    - Dream [^warlock]
-    - Seeming [^warlock]
-    - Creation [^warlock]
-    - Contact Other Plane [^warlock]
-    - Wall of Light [^warlock]
-    - Mislead [^warlock]
+    - Ritual only: Commune
     - Ritual only: Commune with nature
+    - Ritual only: Contact Other Plane [^warlock]
+    - Creation [^warlock]
+    - Dream [^warlock]
+    - Mislead [^warlock]
     - Ritual only: Rary's Telepathic Bond
+    - Seeming [^warlock]
+    - Wall of Light [^warlock]
+  - Level 5:
+    - UNOBTAINED RITUAL: Drawmij's Instant Summons
+    - UNOBTAINED RITUAL: Forbiddance
 
 ### Cantrips
   - Eldritch Blast 1d10 (each +cha,10ft push back via invocations) * 3 beams@11th with ranged attack 120ft [^warlock]
@@ -368,6 +374,9 @@ TODO
 
 #### Level 7
   - :o: Finger of Death. One use per long rest [^mystic-arcanum]
+
+#### Level 8
+  - :o: Dominate Monster One use per long rest [^mystic-arcanum]
 
 ## Notes
 
