@@ -33,7 +33,7 @@
 | Investigation     | Int    | Proficient [^skill-expert-feat]                      |
 | Medicine          | Wis    |                                                      |
 | Nature            | Int    | Proficient [^warlock]                                |
-| Perception        | Wis    |                                                      |
+| Perception        | Wis    | Advantage vs sight [^robe-of-eyes]                   |
 | Performance       | Cha    |                                                      |
 | Persuasion        | Cha    | Proficient [^background-archaeologist]               |
 | Religion          | Int    |                                                      |
@@ -118,7 +118,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 0            |
-| GP   | 1         | 4087         |
+| GP   | 1         | 3386         |
 | EP   | 2         | 0            |
 | SP   | 10        | 5            |
 | CP   | 100       | 1            |
@@ -171,7 +171,7 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Component pouch [^warlock]
  - [^attuned] Rod of the Pact Keeper +2 spell attack & DC. Regain 1 slot per long rest [^rod-of-pact-keeper]
  - [^attuned] Amulet of Health (Con is 19) [^amulet-of-health]
- - [^attuned] Ring of Spell Storing (hold 5 levels worth of spells) [^ring-of-spell-storing]
+ - [^attuned] Robe of Eyes (perception increase) [^robe-of-eyes]
  - Bag of Holding
    - 1 Volcano wine
    - a Crowbar
@@ -238,6 +238,13 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
  - Dragon themed tarot cards
  - 7xscroll remove curse
  - Potion of greater healing
+ - Scrivener's tale crap:
+   - Vellum map of Delimbiyran and environs (note states one site is "haven of the red quill", writing matches scriveners tale)
+   - Folio torn from unknown tomb with history of Delimbiyran and Fallphalorm (realm of 3 crowns, when it fell Delimbiyran rose after it)
+   - Tucked into the Folio are sheaf of notes by Machil (scrivener's tale writer). They talk of adventure seeking "the shadow glass" - a great treasure.
+   - Unsent unsigned letter from Machil. "To family. ... pray evils done by Nintra Siotta (princess of shadow glass, lady of dread omens, seeker of 3 crowns) undone after my death."
+   - Guardians almost finished... Stairs above descend to haven of red quill...
+ - Wand of Smiles
 
 ## Mule - muriel
  - Saddle bags
@@ -339,8 +346,8 @@ TODO
     - Seeming [^warlock]
     - Wall of Light [^warlock]
   - Level 5:
+    - Ritual only: Forbiddance
     - UNOBTAINED RITUAL: Drawmij's Instant Summons
-    - UNOBTAINED RITUAL: Forbiddance
 
 ### Cantrips
   - Eldritch Blast 1d10 (each +cha,10ft push back via invocations) * 3 beams@11th with ranged attack 120ft [^warlock]
@@ -353,12 +360,11 @@ TODO
 
 ### Slots
 
-#### Ring of Spell Storing [^ring-of-spell-storing]
-  - Cure Wounds
-  - Absorb elements
-  - Shield 
-  - Shield 
-  - Shield 
+#### Robe of Eyes [^robe-of-eyes]
+  - The robe lets you see in all directions, and you have advantage on Wisdom (Perception) checks that rely on sight.
+  - You have darkvision out to a range of 120 feet.
+  - You can see invisible creatures and objects, as well as see into the Ethereal Plane, out to a range of 120 feet.
+  - A light spell cast on the robe or a daylight spell cast within 5 feet of the robe causes you to be blinded for 1 minute. At the end of each of your turns, you can make a Constitution saving throw (DC 11 for light or DC 15 for daylight), ending the blindness on a success.
 
 #### Level 1
   - :o: 1/day Hex [^fae-touched]
@@ -396,5 +402,5 @@ TODO
 [^rod-of-pact-keeper]: Rod of the Pact Keeper
 [^amulet-of-health]: Amulet of Health
 [^attuned]: Attuned items (3)
-[^ring-of-spell-storing]: Ring of Spell Storing
+[^robe-of-eyes]: Robe of Eyes
 
