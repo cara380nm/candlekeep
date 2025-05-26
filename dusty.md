@@ -2,7 +2,7 @@
 
  * Apprentice Wizard
  * Medium Humanoid, any alignment
- * Armor Class 10 (13 with mage armor)
+ * Armor Class 10 (13 with mage armor, +2 with magic shield)
  * Hit Points 9 (2d8)
  * Speed 30 ft.
 
@@ -47,3 +47,4 @@ The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intellige
  * Headband of Intellect 17 Int
  * Boots of Striding (30ft speed, never reduced, etc, bonus to jump)
  * Travellers cloak
+ * Animated shield (+2 AC no hands in use)
