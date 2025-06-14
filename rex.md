@@ -2,11 +2,11 @@
 
 | Name         | Background        | Race                    | Type        | Size      | Alignment         | XP   | Deity |
 | ---------    | ----------------- | ----------------------- | ----------- | --------- | ----------------- | ---- | ---   |
-| Rex Metcalfe | Archaeologist     | Custom lineage human    | Humanoid    | Medium    | True Neutral      |      | Orcus |
+| Rex Metcalfe | Archaeologist     | Custom lineage human    | Humanoid    | Medium    | True Neutral      |      |       |
 
 | Class       | Subclass                        | Level   | HD    |
 | ----------- | ------------------------------- | ------: | ----- |
-| Warlock     | Genie (djinni) [^genie]         | 15      | 1d8   |
+| Warlock     | Genie (djinni) [^genie]         | 16      | 1d8   |
 
 ## Stats
 | Stat  | Value                            | Mod                              | Save       | Mods  |
@@ -65,9 +65,9 @@
 | Walking Speed        | 30ft [^lineage]                  |
 | Passive perception   | 10+1 Wis                         |
 
-| Hitpoints                         | Lost HP   | Temporary Hitpoints   |
-| -----------                       | --------- | --------------------- |
-| 97 (139 with [^amulet-of-health]) | 0         | 7                     |
+| Hitpoints                          | Lost HP   | Temporary Hitpoints   |
+| -----------                        | --------- | --------------------- |
+| 103 (148 with [^amulet-of-health]) | 0         | 21                    |
 
 ## Abilities
 
@@ -113,12 +113,15 @@ Entering a ruin or dungeon can ascertain original purpose, builder race. Can det
    * +5 bonus to initiative.
    * Unseen creatures don't gain advantage on attack rolls
 
+### Inspiring leader [^alert-feat]
+Once per short/long rest can spent 10 minutes inspiring up to six (including self) creatures within 30ft, granting my level+cha mod temporary hp.
+
 ## Money
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 61           |
-| GP   | 1         | 752          |
+| GP   | 1         | 4085         |
 | EP   | 2         | 0            |
 | SP   | 10        | 5            |
 | CP   | 100       | 1            |
@@ -372,7 +375,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
   - :o: Mass suggestion. One use per long rest [^mystic-arcanum]
 
 #### Level 7
-  - :o: Finger of Death. One use per long rest [^mystic-arcanum]
+  - :o: Plane shift. One use per long rest [^mystic-arcanum]
 
 #### Level 8
   - :o: Dominate Monster One use per long rest [^mystic-arcanum]
