@@ -86,7 +86,7 @@ Uses charisma
   * Book of Ancient Secrets [^book-of-ancient-secrets] (ritual from any class) [^warlock]
   * Ghostly Gaze (xray vision 30ft for 1 min  (1/short rest) [^warlock]
   * Whispers of the Grave (unlimited speak with dead without consuming slot) [^warlock]
-  * Sculptor of Flesh (cast polymorph 1 per day) [^eldritch-adept-feat]
+  * Master of Myriad Forms (altar self at will without using slot) [^eldritch-adept-feat]
   * Devil's Sight You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet. [^warlock]
   * Shroud of Shadow. Cast invisibility at will without expending spell slot [^warlock]
 
