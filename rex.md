@@ -6,7 +6,7 @@
 
 | Class       | Subclass                        | Level   | HD    |
 | ----------- | ------------------------------- | ------: | ----- |
-| Warlock     | Genie (djinni) [^genie]         | 16      | 1d8   |
+| Warlock     | Genie "Yazida" (djinni) [^genie]         | 17      | 1d8   |
 
 ## Stats
 | Stat  | Value                            | Mod                              | Save       | Mods  |
@@ -59,7 +59,7 @@
 
 | Field                | Value                            |
 | -------------------- | -------------------:             |
-| Proficiency bonus    | +5                               |
+| Proficiency bonus    | +6                               |
 | AC                   | 13 Magic studded Leather + 2 Dex |
 | Initiative           | +2 Dex +5 alert [^alert-feat]    |
 | Walking Speed        | 30ft [^lineage]                  |
@@ -67,7 +67,7 @@
 
 | Hitpoints                          | Lost HP   | Temporary Hitpoints   |
 | -----------                        | --------- | --------------------- |
-| 103 (148 with [^amulet-of-health]) | 0         | 21                    |
+| 109 (157 with [^amulet-of-health]) | 0         | 22                    |
 
 ## Abilities
 
@@ -120,10 +120,10 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 61           |
-| GP   | 1         | 4085         |
+| PP   | 1/10      | 606          |
+| GP   | 1         | 1667         |
 | EP   | 2         | 0            |
-| SP   | 10        | 5            |
+| SP   | 10        | 15           |
 | CP   | 100       | 1            |
 
  - Minion cost. Dusty, rex obsessed wizard apprentice 1 GP/day
@@ -137,13 +137,11 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
  - Low tables
    - 1 box with poison trap. DC 22.
      - White dragon scales
-   - A wooden case containing a map to a ruin or dungeon [^background-archaeologist]
-   - A small stone statue of a former goddess. Trinket recovered from a dig site [^background-archaeologist]
-   - Emerald Pen
-   - Glass bottle with poison to become a Lich
    - Box with 25gp of spices
+   - Emerald Pen
    - Spoon that seasons food
    - Collar allows cat/dog to speak common
+   - A wooden case containing a map to a ruin or dungeon [^background-archaeologist]
  - Clockwork roomba 
    - Mr fluffy (atop roomba). Pseudodragon stuffed toy. Squeeze to make pseudodragon noises
  - Statue of a cat that purrs when you pet it
@@ -159,9 +157,8 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
  - Books:
    - Memoir of Frederik Smithson
      - Missing page from Frederik Smithson's journal detailing the sacrifice of the party
+ - Dusty gift:
    - Lich's spellbook
-   - Instructions for becoming lich - You need to spend 7 days creating your phylactory and need 7000gp (1000gp a day) uninterrupted. You need the spells or rituals magic jar, dimension door and imprisonment. You need to feed 3 souls to it, over the 7 day period. Once the phylactory is created,  drink the potion the lich gave you to die and come back as a lich.
-   - Complete history of Orcus
  - Silver service set (worth 80gp)
 
 ## Equipment
@@ -176,7 +173,6 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
  - [^attuned] Amulet of Health (Con is 19) [^amulet-of-health]
  - [^attuned] Wand of Polymorph [^wand-of-polymorph]
  - Bag of Holding
-   - 1 Volcano wine
    - a Crowbar
    - a Hammer
    - 10 pitons
@@ -184,7 +180,6 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
    - a Tinderbox
    - 10 days of Rations
    - a Waterskin
-   - 50 feet of royal caterpillar silk rope
    - Cartographer's Tools
      - A quill
      - Ink
@@ -242,6 +237,23 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
  - 7xscroll remove curse
  - Potion of greater healing
  - Wand of Smiles
+ - Jar of giant sized sweets
+ - Sheep
+   - Sheep saddlebags
+ - Tuning forks:
+   - Material plane
+   - Unatuned fork
+   - Feywild
+   - Shadowfell
+   - Water
+   - Air
+   - Fire
+   - Earth
+   - Ooze
+   - Outlands
+   - Limbo
+   - Bytopia
+   - Hades
 
 ## Mule - muriel
  - Saddle bags
@@ -342,6 +354,7 @@ TODO
     - Ritual only: Rary's Telepathic Bond
     - Seeming [^warlock]
     - Wall of Light [^warlock]
+    - TODO [^warlock]
   - Level 6:
     - Ritual only: Forbiddance
     - UNOBTAINED RITUAL: Drawmij's Instant Summons
@@ -369,7 +382,7 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
   - :o: 1/day Misty Step [^fae-touched]
 
 #### Level 5
-  - :o: :o: :o: Regular spells ([^rod-of-pact-keeper] can recover one)
+  - :o: :o: :o: :o: Regular spells ([^rod-of-pact-keeper] can recover one)
 
 #### Level 6
   - :o: Mass suggestion. One use per long rest [^mystic-arcanum]
@@ -379,6 +392,9 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 #### Level 8
   - :o: Dominate Monster One use per long rest [^mystic-arcanum]
+
+#### Level 9
+  - :o: Wish One use per long rest [^mystic-arcanum]
 
 ## Notes
 
