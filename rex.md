@@ -354,7 +354,7 @@ TODO
     - Ritual only: Rary's Telepathic Bond
     - Seeming [^warlock]
     - Wall of Light [^warlock]
-    - TODO [^warlock]
+    - Enervation [^warlock]
   - Level 6:
     - Ritual only: Forbiddance
     - UNOBTAINED RITUAL: Drawmij's Instant Summons
