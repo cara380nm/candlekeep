@@ -121,7 +121,7 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 606          |
-| GP   | 1         | 1667         |
+| GP   | 1         | 1522         |
 | EP   | 2         | 0            |
 | SP   | 10        | 15           |
 | CP   | 100       | 1            |
@@ -219,7 +219,7 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
    - Firework: Rocket
    - Nolzur’s marvellous pigments
    - Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
-   - Wooden vial with single dose of sweet sap (potion of healing superior)
+   - 3xpotion of healing superior
    - Sack
    - Hawthorne wand that turns small objects ethereal for 1 hour
    - Tart wand 1d6 random tarts
@@ -254,6 +254,8 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
    - Limbo
    - Bytopia
    - Hades
+ - 10xYellow sponges
+ - Extra fancy fishing rod.
 
 ## Mule - muriel
  - Saddle bags
