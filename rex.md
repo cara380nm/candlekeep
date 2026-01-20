@@ -161,7 +161,7 @@ Once per short/long rest can spent 10 minutes inspiring up to six (including sel
    - Lich's spellbook
  - Silver service set (worth 80gp)
 
-## Equipment
+## Inventory
  - Clothing:
    - Travellers clothes [^background-archaeologist]
    - +1 Studded Leather
