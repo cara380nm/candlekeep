@@ -62,7 +62,7 @@
 | Field                | Value                            |
 | -------------------- | -------------------:             |
 | Proficiency bonus    | +6                               |
-| AC                   | 13 Magic studded Leather + 1 Dex |
+| AC                   | 13 Magic studded Leather +2 Animated Shield +1 Dex |
 | Initiative           | +1 Dex                           |
 | Walking Speed        | 30ft [^lineage]                  |
 | Passive perception   | 10+2 Wis                         |
@@ -97,7 +97,7 @@ Once per short rest (or until incapacitated) choose:
 
 ### Arcane recovery [^wizard]
 
-Once per day after short rest recover half wizard level (rounded up) of level 5 or lower slots.
+Once per day after short rest recover half wizard level (rounded up) (+1 [^arcane_grimoire]) of level 5 or lower slot.
 
 ### Cantrip formulas [^wizard]
 
@@ -118,7 +118,7 @@ Swap out a wizard cantrip after long rest
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 0            |
-| GP   | 1         | 0            |
+| GP   | 1         | 733          |
 | EP   | 2         | 0            |
 | SP   | 10        | 0            |
 | CP   | 100       | 0            |
@@ -133,9 +133,11 @@ Swap out a wizard cantrip after long rest
  - Component pouch [^warlock]
  - Stegasaurus figure wooden painted.
  - Holy water
- - Headband of Intellect 17 Int
- - Boots of Striding (30ft speed, never reduced, etc, bonus to jump) [^attuned]
+ - +1 Arcane Grimoire - bonus to spell attack/dc and extra slot regained via arcane recovery [^arcane_grimoire] [^attuned]
  - Animated shield (+2 AC no hands in use) [^attuned]
+ - Ring of Regeneration 1d6 HP every 10 minutes if you have 1 hp if you have >=1hp. Regrow parts [^attuned]
+ - Souvenier tuning fork from pseudodragon spa island
+ - Bratty bag of holding
 
 ## Misc
 
@@ -171,11 +173,11 @@ TODO
 
 ### Wizard [^warlock]
 
-| Feature                | Value            | Mods    |
-| ---------------------- | ---------------- | ------- |
-| Spellcasting ability   | Charisma         |         |
-| Spell save DC          | 8+prof+5 cha     |         |
-| Spell attack bonus     | prof+5 cha       |         |
+| Feature                | Value                            | Mods    |
+| ---------------------- | ----------------                 | ------- |
+| Spellcasting ability   | Charisma                         |         |
+| Spell save DC          | 8+prof+5 cha+1[^arcane_grimoire] |         |
+| Spell attack bonus     | prof+5 cha+1[^arcane_grimoire]   |         |
 
 ### Cantrips
   - Minor Illusion [^wizard]
@@ -273,4 +275,5 @@ TODO
 [^background-archaeologist]: Archaeologist background from Tomb of Annihilation
 [^alert-feat]: Alert Feat
 [^attuned]: Attuned items (3)
+[^arcane_grimoire]: Item
 
