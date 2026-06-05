@@ -65,7 +65,7 @@
 | AC                   | 13 Magic studded Leather +2 Animated Shield +1 Dex |
 | Initiative           | +1 Dex                           |
 | Walking Speed        | 30ft [^lineage]                  |
-| Passive perception   | 10+2 Wis                         |
+| Passive perception   | 10+2 perception                  |
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
@@ -80,6 +80,7 @@
 ### Portent / Greater Portent [^school-of-divination]
 
 Roll three d20s after long rest. Once per turn replace any attack roll, saving throw, or ability check made by you or a creature that you can see. *before the roll*
+20, 18, 5
 
 ### Expert Divination [^school-of-divination]
 
@@ -97,7 +98,7 @@ Once per short rest (or until incapacitated) choose:
 
 ### Arcane recovery [^wizard]
 
-Once per day after short rest recover half wizard level (rounded up) (+1 [^arcane_grimoire]) of level 5 or lower slot.
+Once per day after short rest recover half wizard level (rounded up) (+1 [^arcane_grimoire]) of level 6 or lower slot.
 
 ### Cantrip formulas [^wizard]
 
@@ -118,10 +119,10 @@ Swap out a wizard cantrip after long rest
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 0            |
-| GP   | 1         | 733          |
+| GP   | 1         | 747          |
 | EP   | 2         | 0            |
 | SP   | 10        | 0            |
-| CP   | 100       | 0            |
+| CP   | 100       | 53           |
 
 ## Inventory
  - Clothing:
@@ -181,7 +182,7 @@ TODO
 
 ### Cantrips
   - Minor Illusion [^wizard]
-  - Toll the Dead (60ft wis save or 2d8 necrotic, 2d12 if missing any hp) [^wizard]
+  - Toll the Dead (60ft wis save or 4d8 necrotic, 4d12 if missing any hp) [^wizard]
   - Mage hand [^wizard] +30ft range [^feat-telekinetic]
   - Mending [^wizard]
   - Prestidigitation [^wizard]
@@ -273,7 +274,6 @@ TODO
 [^school-of-divination]: Divination wizard class
 [^lineage]: Custom lineage human
 [^background-archaeologist]: Archaeologist background from Tomb of Annihilation
-[^alert-feat]: Alert Feat
 [^attuned]: Attuned items (3)
 [^arcane_grimoire]: Item
 
