@@ -157,14 +157,17 @@ Creature holding object can use action to produce the spell effect using my spel
 | SP   | 10        |              |
 | CP   | 100       |              |
 
-## Equipment
-
+## Equipment (5 attunes)
+TODO another 2 attunes
+ - Spell refueling ring infusion (attune)
+ - Cloak of the Bat infusion (attune)
+ - Enhanced arcane focus infusion (attune)
+ - Lantern of revealing infusion
  - Clothing:
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
    - Isosceles triangle shield +2 AC
    - Hooded robe small (black, lining green gold silk)
-   - Cloak of elvenkind (attune)
    - Boots
  - Weapons:
    - 3x Dagger 1d4 [^artificer]
