@@ -6,7 +6,7 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |    14 | 1d8 |
+| Artificer | Artillerist |    17 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                             |
@@ -72,7 +72,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 126         | 0         | 0                     |
+| 150         | 0         | 0                     |
 
 ## Abilities
 
@@ -87,21 +87,24 @@ Advantage to all int/wis/cha saves vs magic [^rock-gnome]
  * Fire starter
  * Music box
 
-### Magical tinkering [^magical-tinkering]: Feat
+### Magical tinkering [^magical-tinkering]
 Up to int-mod tiny items can be enchanted to either: [^artificer]
  * Shed light 5-10ft
  * Play message
  * Emit odor/sound within 10 feet
  * Static visual effect
 
+### Telekinetic feat [^telekinetic]
+Mage hand with extra 30ft without verbal/somatic, and hand can be invisible. As bonus action can telekinetically shove one creature within 30ft. DC8+myprof+myint strength to avoid being shoved 5 ft toward/away.
+
 ### Infuse item [^infusion]
-After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artificer] Known infusions:
+After long rest, imbue infusions to 5 objects. Max 1 infusion per object [^artificer] Known infusions:
  * :o: Spell refueling ring (attune) - recover a level 3 slot per day
- * :o: Homunculus
+ * :o: Homunculus servant
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
  * :o: Lantern of revealing
- * :o: Boots of Elvenkind
- * Winged Boots (attune)
+ * :o: Cloak of the Bat (attune)
+ * Boots of Elvenkind
  * Helm of awareness (attune) Advantage on initiative. Can't be surprised
  * Cloak of protection (attune) +1 AC & saves
  * Enhanced Defense (+2 AC). Armour or shield
@@ -118,6 +121,10 @@ Action to create small/tiny. 1 per long rest (or expend spell slot). 5 xlevel HP
 
 ### Explosive cannon
 If cannon within 60ft can use action to destroy it. All within 20 ft, take 3d8 force. Dex save for half
+
+### Fortified position
+You and your alies have half cover within 10ft of Eldritch Cannon
+Can now have two cannons at the same time. Can create two with same action (but not the same spell slot) and can activate them with the same bonus action. Cannons can be different types. Can't create third.
 
 ### The Right Tool for the Job
 1 hour to create artisans tools [^artificer]
@@ -208,6 +215,7 @@ Creature holding object can use action to produce the spell effect using my spel
  - Baldurs gate guidebook
  - Pirate chest and key
  - Exotic fruits
+ - Umbrella (used for cloak of the bat shenanigans)
 
 ## Misc
 
@@ -280,6 +288,11 @@ Int + 1/2 artificer level spells:
     - Ice Storm (bonus artillerist [^artillerist] always prepared)
     - Wall of Fire (bonus artillerist [^artillerist] always prepared)
     - Summon Construct
+  - Level 5:
+    - Cone of Cold (bonus artillerist [^artillerist] always prepared)
+    - Wall of Force (bonus artillerist [^artillerist] always prepared)
+    - Creation
+    - Bigby's Hand
 
 ### Cantrips
   - Mending [^artificer]
@@ -288,6 +301,7 @@ Int + 1/2 artificer level spells:
   - Minor Illusion [^magic-initiate]
   - Firebolt [^artificer] 3d10 120ft
   - Sword burst [^artificer] 3d6 to all dex save
+  - Mage hand with +30ft [^telekinetic]
   - +1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
 
 ### Slots
@@ -308,6 +322,9 @@ Int + 1/2 artificer level spells:
   - :o: :o: :o: Regular spells (Spell refueling ring can recover one)
 
 #### Level 4
+  - :o: :o: :o: Regular spells
+
+#### Level 5
   - :o: Regular spells
 
 ## Notes
@@ -321,6 +338,7 @@ Int + 1/2 artificer level spells:
 [^tinker]: Rock gnome feature [^rock-gnome]
 [^magical-tinkering]: Artificer feature [^artificer]
 [^infusion]: Artificer feature [^artificer]
+[^telekinetic]: Feat
 
 ## Familiars/companions
 
