@@ -151,7 +151,7 @@ Creature holding object can use action to produce the spell effect using my spel
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 1151         |
+| PP   | 1/10      | 1149         |
 | GP   | 1         | 2684         |
 | EP   | 2         |              |
 | SP   | 10        |              |
