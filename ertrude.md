@@ -183,6 +183,7 @@ TODO another 2 attunes
  - 2x1 pound bright red egg
  - Lantern
  - Bag of holding
+   - Pseudodragon bed sized bed made of hollowed geode.
  - Dungeoneer's Pack [^artificer]
    - a Backpack
    - a Crowbar
