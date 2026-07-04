@@ -6,7 +6,7 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |    17 | 1d8 |
+| Artificer | Artillerist |    18 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                             |
@@ -72,7 +72,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 150         | 0         | 0                     |
+| 158         | 0         | 0                     |
 
 ## Abilities
 
@@ -104,6 +104,8 @@ After long rest, imbue infusions to 5 objects. Max 1 infusion per object [^artif
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
  * :o: Lantern of revealing
  * :o: Cloak of the Bat (attune)
+ * :o: Hat of Disguise (attune)
+ * Pipes of Haunting
  * Boots of Elvenkind
  * Helm of awareness (attune) Advantage on initiative. Can't be surprised
  * Cloak of protection (attune) +1 AC & saves
@@ -143,6 +145,9 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 You can attune to up to five magic items at once.
 You ignore all class, race, spell and level requirements on attuning to or using a magic item.
 
+## Magic Item Master
+Attune up to 6 items
+
 ### Spell Storing Item
 After long rest can imbue a simple/martial weapon/artificer-spellcasting-focus with a 1st/2nd level artificer spell taking 1 action (needn't be prepared)
 Creature holding object can use action to produce the spell effect using my spellcasting ability. Creature must concentrated if spell requires. Castable int x2 times or until feature used again.
@@ -157,12 +162,14 @@ Creature holding object can use action to produce the spell effect using my spel
 | SP   | 10        |              |
 | CP   | 100       |              |
 
-## Equipment (5 attunes)
-TODO another 2 attunes
+## Equipment (6 attunes)
  - Spell refueling ring infusion (attune)
  - Cloak of the Bat infusion (attune)
  - Enhanced arcane focus infusion (attune)
- - Lantern of revealing infusion
+ - Enhanced arcane focus infusion (attune)
+ - TODO (attune)
+ - TODO (attune)
+ - Lantern
  - Clothing:
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
@@ -285,7 +292,7 @@ Int + 1/2 artificer level spells:
     - Wind wall (bonus artillerist [^artillerist] always prepared)
     - Haste
     - Blink
-    - Dispell
+    - Dispel magic
     - Revivify
   - Level 4:
     - Fabricate
@@ -297,6 +304,7 @@ Int + 1/2 artificer level spells:
     - Wall of Force (bonus artillerist [^artillerist] always prepared)
     - Creation
     - Bigby's Hand
+    - Transmute Rock
 
 ### Cantrips
   - Mending [^artificer]
