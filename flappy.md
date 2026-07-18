@@ -45,11 +45,12 @@ Mend restores 2d6
    - Stone screams (60s after drop) [^magical-tinkering]
    - Stone emitting light [^magical-tinkering]
    - Stone painted like fake acme dynamite [^magical-tinkering]
-   - 3 ruby
-   - Shiny perlescent pebble
+   - Bag of pretty gems
+     - 4 ruby
+     - Shiny perlescent pebble
+     - Agate from sea dragon
+     - Small shiny orb
    - Stonkys ring
-   - Agate from sea dragon
-   - Small shiny orb
    - Tiny woollen hat
    - Tiny pike
    - Tiny dagger with spell storing item: enhance ability

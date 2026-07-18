@@ -6,7 +6,7 @@
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
-| Artificer | Artillerist |    14 | 1d8 |
+| Artificer | Artillerist |    18 | 1d8 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                             |
@@ -72,7 +72,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 126         | 0         | 0                     |
+| 158         | 0         | 0                     |
 
 ## Abilities
 
@@ -87,21 +87,26 @@ Advantage to all int/wis/cha saves vs magic [^rock-gnome]
  * Fire starter
  * Music box
 
-### Magical tinkering [^magical-tinkering]: Feat
+### Magical tinkering [^magical-tinkering]
 Up to int-mod tiny items can be enchanted to either: [^artificer]
  * Shed light 5-10ft
  * Play message
  * Emit odor/sound within 10 feet
  * Static visual effect
 
+### Telekinetic feat [^telekinetic]
+Mage hand with extra 30ft without verbal/somatic, and hand can be invisible. As bonus action can telekinetically shove one creature within 30ft. DC8+myprof+myint strength to avoid being shoved 5 ft toward/away.
+
 ### Infuse item [^infusion]
-After long rest, imbue infusions to 4 objects. Max 1 infusion per object [^artificer] Known infusions:
+After long rest, imbue infusions to 5 objects. Max 1 infusion per object [^artificer] Known infusions:
  * :o: Spell refueling ring (attune) - recover a level 3 slot per day
- * :o: Homunculus
+ * :o: Homunculus servant
  * :o: Enhanced arcane focus (attune) +2 spell attack & ignore half cover
  * :o: Lantern of revealing
- * :o: Boots of Elvenkind
- * Winged Boots (attune)
+ * :o: Cloak of the Bat (attune)
+ * :o: Hat of Disguise (attune)
+ * Pipes of Haunting
+ * Boots of Elvenkind
  * Helm of awareness (attune) Advantage on initiative. Can't be surprised
  * Cloak of protection (attune) +1 AC & saves
  * Enhanced Defense (+2 AC). Armour or shield
@@ -118,6 +123,10 @@ Action to create small/tiny. 1 per long rest (or expend spell slot). 5 xlevel HP
 
 ### Explosive cannon
 If cannon within 60ft can use action to destroy it. All within 20 ft, take 3d8 force. Dex save for half
+
+### Fortified position
+You and your alies have half cover within 10ft of Eldritch Cannon
+Can now have two cannons at the same time. Can create two with same action (but not the same spell slot) and can activate them with the same bonus action. Cannons can be different types. Can't create third.
 
 ### The Right Tool for the Job
 1 hour to create artisans tools [^artificer]
@@ -136,6 +145,9 @@ If you craft a magic item with a rarity of common or uncommon, it takes you a qu
 You can attune to up to five magic items at once.
 You ignore all class, race, spell and level requirements on attuning to or using a magic item.
 
+## Magic Item Master
+Attune up to 6 items
+
 ### Spell Storing Item
 After long rest can imbue a simple/martial weapon/artificer-spellcasting-focus with a 1st/2nd level artificer spell taking 1 action (needn't be prepared)
 Creature holding object can use action to produce the spell effect using my spellcasting ability. Creature must concentrated if spell requires. Castable int x2 times or until feature used again.
@@ -144,20 +156,25 @@ Creature holding object can use action to produce the spell effect using my spel
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 1301         |
+| PP   | 1/10      | 1149         |
 | GP   | 1         | 2684         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
 
-## Equipment
-
+## Equipment (6 attunes)
+ - Spell refueling ring infusion (attune)
+ - Cloak of the Bat infusion (attune)
+ - Enhanced arcane focus infusion (attune)
+ - Enhanced arcane focus infusion (attune)
+ - TODO (attune)
+ - TODO (attune)
+ - Lantern
  - Clothing:
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
    - Isosceles triangle shield +2 AC
    - Hooded robe small (black, lining green gold silk)
-   - Cloak of elvenkind (attune)
    - Boots
  - Weapons:
    - 3x Dagger 1d4 [^artificer]
@@ -173,6 +190,7 @@ Creature holding object can use action to produce the spell effect using my spel
  - 2x1 pound bright red egg
  - Lantern
  - Bag of holding
+   - Pseudodragon bed sized bed made of hollowed geode.
  - Dungeoneer's Pack [^artificer]
    - a Backpack
    - a Crowbar
@@ -208,6 +226,7 @@ Creature holding object can use action to produce the spell effect using my spel
  - Baldurs gate guidebook
  - Pirate chest and key
  - Exotic fruits
+ - Umbrella (used for cloak of the bat shenanigans)
 
 ## Misc
 
@@ -273,13 +292,19 @@ Int + 1/2 artificer level spells:
     - Wind wall (bonus artillerist [^artillerist] always prepared)
     - Haste
     - Blink
-    - Dispell
+    - Dispel magic
     - Revivify
   - Level 4:
     - Fabricate
     - Ice Storm (bonus artillerist [^artillerist] always prepared)
     - Wall of Fire (bonus artillerist [^artillerist] always prepared)
     - Summon Construct
+  - Level 5:
+    - Cone of Cold (bonus artillerist [^artillerist] always prepared)
+    - Wall of Force (bonus artillerist [^artillerist] always prepared)
+    - Creation
+    - Bigby's Hand
+    - Transmute Rock
 
 ### Cantrips
   - Mending [^artificer]
@@ -288,6 +313,7 @@ Int + 1/2 artificer level spells:
   - Minor Illusion [^magic-initiate]
   - Firebolt [^artificer] 3d10 120ft
   - Sword burst [^artificer] 3d6 to all dex save
+  - Mage hand with +30ft [^telekinetic]
   - +1 Swiss army spork (once a day pick a cantrip to know for 8 hours)
 
 ### Slots
@@ -308,6 +334,9 @@ Int + 1/2 artificer level spells:
   - :o: :o: :o: Regular spells (Spell refueling ring can recover one)
 
 #### Level 4
+  - :o: :o: :o: Regular spells
+
+#### Level 5
   - :o: Regular spells
 
 ## Notes
@@ -321,6 +350,7 @@ Int + 1/2 artificer level spells:
 [^tinker]: Rock gnome feature [^rock-gnome]
 [^magical-tinkering]: Artificer feature [^artificer]
 [^infusion]: Artificer feature [^artificer]
+[^telekinetic]: Feat
 
 ## Familiars/companions
 
