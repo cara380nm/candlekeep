@@ -72,7 +72,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 158         | 0         | 0                     |
+| 158         | 0         | 12                    |
 
 ## Abilities
 
@@ -157,7 +157,7 @@ Creature holding object can use action to produce the spell effect using my spel
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 1149         |
-| GP   | 1         | 2684         |
+| GP   | 1         | 2634         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -170,6 +170,7 @@ Creature holding object can use action to produce the spell effect using my spel
  - Hat of Disguise (attune)
  - TODO (attune)
  - Lantern
+ - Broomstick of flying
  - Clothing:
    - Travellers clothes [^guild-artisan]
    - Breastplate (AC: 14, no stealth penalty)
@@ -227,8 +228,10 @@ Creature holding object can use action to produce the spell effect using my spel
  - Pirate chest and key
  - Exotic fruits
  - Umbrella (used for cloak of the bat shenanigans)
- - Bottle of spores
  - Bucket of mayonaise with fungus spores
+ - 40 bottles with spore samples
+ - 9 empty bottles
+ - 1 bottled sample of melted person good
 
 
 ## Misc
@@ -288,7 +291,6 @@ Int + 1/2 artificer level spells:
     - Scorching ray (bonus artillerist [^artillerist] always prepared)
     - Shatter (bonus artillerist [^artillerist] always prepared)
     - Invisibility
-    - Alter self
     - Lesser restoration
   - Level 3:
     - Fireball (bonus artillerist [^artillerist] always prepared)
@@ -308,6 +310,7 @@ Int + 1/2 artificer level spells:
     - Creation
     - Bigby's Hand
     - Transmute Rock
+    - Greater restoration
 
 ### Cantrips
   - Mending [^artificer]

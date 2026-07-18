@@ -17,6 +17,7 @@ Speed 20 ft., fly 30 ft.
 Saving Throws Dex: +2 plus PB
 
 #### Skills / traits
+Initiative: Shares artificer, goes after them. Moves and takes its reaction but it can only take dodge action unless Ertrude uses her bonus action to command (if Ertrude incapacitated it can take any action).
 Perception: +0 plus PB x 2, Stealth +2 plus PB
 Damage Immunities poison
 Condition Immunities exhaustion, poisoned
