@@ -1,8 +1,8 @@
 # Character
 
-| Name    | Background    | Race       | Type     | Size  | Alignment       | XP | Deity |
-|---------|---------------|------------|----------|-------|-----------------|----|---|
-| Ertrude | Guild Artisan | Rock Gnome | Humanoid | Small | Chaotic Neutral |    |"The blessed child", actually Leira.  |
+| Name    | Background    | Race       | Type     | Size  | Alignment       | XP | Deity                                |
+|---------|---------------|------------|----------|-------|-----------------|----|--------------------------------------|
+| Ertrude | Guild Artisan | Rock Gnome | Humanoid | Small | Chaotic Neutral |    | "The blessed child", actually Leira. |
 
 | Class     | Subclass    | Level | HD  |
 |-----------|-------------|------:|-----|
@@ -167,7 +167,7 @@ Creature holding object can use action to produce the spell effect using my spel
  - Cloak of the Bat infusion (attune)
  - Enhanced arcane focus infusion (attune)
  - Enhanced arcane focus infusion (attune)
- - TODO (attune)
+ - Hat of Disguise (attune)
  - TODO (attune)
  - Lantern
  - Clothing:
@@ -227,6 +227,9 @@ Creature holding object can use action to produce the spell effect using my spel
  - Pirate chest and key
  - Exotic fruits
  - Umbrella (used for cloak of the bat shenanigans)
+ - Bottle of spores
+ - Bucket of mayonaise with fungus spores
+
 
 ## Misc
 
