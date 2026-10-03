@@ -72,7 +72,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 158         | 0         | 12                    |
+| 158         | 0         | 14                    |
 
 ## Abilities
 
@@ -157,7 +157,7 @@ Creature holding object can use action to produce the spell effect using my spel
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 1149         |
-| GP   | 1         | 2634         |
+| GP   | 1         | 1634         |
 | EP   | 2         |              |
 | SP   | 10        |              |
 | CP   | 100       |              |
@@ -165,10 +165,10 @@ Creature holding object can use action to produce the spell effect using my spel
 ## Equipment (6 attunes)
  - Spell refueling ring infusion (attune)
  - Cloak of the Bat infusion (attune)
- - Enhanced arcane focus infusion (attune)
- - Enhanced arcane focus infusion (attune)
+ - Enhanced arcane focus infusion (+2 SA) (attune)
+ - +1 Swiss army spork (all purpose tool) (any type of artisan's tool w/ auto proficiency, +1 to spell attack and save DC), once a day pick a cantrip to know for 8 hours) (attune)
  - Hat of Disguise (attune)
- - TODO (attune)
+ - Staff of the Woodlands (+2 SA, spells, etc) (attune)
  - Lantern
  - Broomstick of flying
  - Clothing:
@@ -186,7 +186,6 @@ Creature holding object can use action to produce the spell effect using my spel
  - Tools:
    - Thief tools [^artificer]
    - Woodworking artisan tools [^artificer]
-   - +1 Swiss army spork (all purpose tool) (any type of artisan's tool w/ auto proficiency, +1 to spell attack and save DC), once a day pick a cantrip to know for 8 hours)
  - Letter of introduction from guild [^guild-artisan]
  - 2x1 pound bright red egg
  - Lantern
@@ -209,8 +208,6 @@ Creature holding object can use action to produce the spell effect using my spel
  - 18 x diamonds 100gp each
  - 20xsugar lumps
  - 2 bottles cider
- - Apple pie
- - Spare apples
  - Automatic duck feeder plans
  - 50gp garnet
  - Poison vial wyvern
@@ -222,17 +219,12 @@ Creature holding object can use action to produce the spell effect using my spel
  - 4xHealing potion
  - Several scales
  - cannon manual powered by elemental air
- - 1x portion cold resistance
  - cloudpeaks travel guide
  - Baldurs gate guidebook
  - Pirate chest and key
- - Exotic fruits
  - Umbrella (used for cloak of the bat shenanigans)
- - Bucket of mayonaise with fungus spores
- - 40 bottles with spore samples
  - 9 empty bottles
- - 1 bottled sample of melted person good
-
+ - Campestri pal
 
 ## Misc
 
@@ -276,7 +268,7 @@ From town with platinum mine. My people weren't around.
 | ---------------------- | ---------------- | -------                                       |
 | Spellcasting ability   | Int              |                                               |
 | Spell save DC          | 8+prof+int mod   | +1 Swiss army spork                           |
-| Spell attack bonus     | prof+int mod     | +1 Swiss army spork, +2 enhanced arcane focus |
+| Spell attack bonus     | prof+int mod     | +1 Swiss army spork, +2 enhanced arcane focus, or +2 staff of woodlands |
 
 ### Prepared spells
 Int + 1/2 artificer level spells:
